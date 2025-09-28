@@ -49,7 +49,7 @@ damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
 resourcePacks:["vanilla","fabric"]
-incompatibleResourcePacks:["entity_model_features","entity_texture_features","subtle_effects","yet_another_config_lib_v3"]
+incompatibleResourcePacks:["balm","defaultoptions","entity_model_features","entity_texture_features","subtle_effects","yet_another_config_lib_v3"]
 lastServer:
 lang:ko_kr
 chatVisibility:0

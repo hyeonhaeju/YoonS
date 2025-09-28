@@ -411,10 +411,21 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2433,
+            "size": 2457,
             "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/config/defaultoptions/options.txt",
-            "MD5": "d032baf57a4788db0da15ebde13d5245",
+            "MD5": "a5b9f8f747ff21ab899532e929248119",
             "path": "config/defaultoptions/options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/config/defaultoptions/servers.dat",
+            "MD5": "6cc0b1b64d24da0a46a53492b69c1c19",
+            "path": "config/defaultoptions/servers.dat"
           }
         },
         {
