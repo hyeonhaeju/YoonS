@@ -13,7 +13,7 @@
       "description": "윤생서버 1.21.1 (Fabric v0.17.2)",
       "icon": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/Ys_icon.png",
       "version": "1.0.0",
-      "address": "118.41.13.87:25565",
+      "address": "yoonsaeng.kro.kr:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -418,17 +418,6 @@
           }
         },
         {
-          "id": "journeymap-server.json",
-          "name": "journeymap-server.json",
-          "type": "File",
-          "artifact": {
-            "size": 67,
-            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/config/journeymap-server.json",
-            "MD5": "1de3b1bd220fc2e0696e0946001baa66",
-            "path": "config/journeymap-server.json"
-          }
-        },
-        {
           "id": "blocks.toml",
           "name": "blocks.toml",
           "type": "File",
@@ -492,6 +481,3658 @@
             "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/config/zoomify.json",
             "MD5": "d9f3478ab4b72ca4d72e34de10c410d4",
             "path": "config/zoomify.json"
+          }
+        },
+        {
+          "id": "journeymap.core.config",
+          "name": "journeymap.core.config",
+          "type": "File",
+          "artifact": {
+            "size": 2693,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/config/6.0/journeymap.core.config",
+            "MD5": "fc6f3f67b982bdce48c92bf9509d21e2",
+            "path": "journeymap/config/6.0/journeymap.core.config"
+          }
+        },
+        {
+          "id": "journeymap.fullmap.config",
+          "name": "journeymap.fullmap.config",
+          "type": "File",
+          "artifact": {
+            "size": 1304,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/config/6.0/journeymap.fullmap.config",
+            "MD5": "16e496c8ab34367998c24701db6b4d72",
+            "path": "journeymap/config/6.0/journeymap.fullmap.config"
+          }
+        },
+        {
+          "id": "journeymap.minimap.config",
+          "name": "journeymap.minimap.config",
+          "type": "File",
+          "artifact": {
+            "size": 2313,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/config/6.0/journeymap.minimap.config",
+            "MD5": "cea30db48e6f097d9c9aca009139ea60",
+            "path": "journeymap/config/6.0/journeymap.minimap.config"
+          }
+        },
+        {
+          "id": "journeymap.minimap2.config",
+          "name": "journeymap.minimap2.config",
+          "type": "File",
+          "artifact": {
+            "size": 2314,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/config/6.0/journeymap.minimap2.config",
+            "MD5": "b7b12af2f3ad8ef7ba23e606fc512eb8",
+            "path": "journeymap/config/6.0/journeymap.minimap2.config"
+          }
+        },
+        {
+          "id": "journeymap.rendering.config",
+          "name": "journeymap.rendering.config",
+          "type": "File",
+          "artifact": {
+            "size": 671,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/config/6.0/journeymap.rendering.config",
+            "MD5": "99f621c2328bc947795368cc790e0339",
+            "path": "journeymap/config/6.0/journeymap.rendering.config"
+          }
+        },
+        {
+          "id": "journeymap.topo.config",
+          "name": "journeymap.topo.config",
+          "type": "File",
+          "artifact": {
+            "size": 971,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/config/6.0/journeymap.topo.config",
+            "MD5": "aafb6c71bc43b02c43f3e964d6c0fd7c",
+            "path": "journeymap/config/6.0/journeymap.topo.config"
+          }
+        },
+        {
+          "id": "journeymap.waypoint.config",
+          "name": "journeymap.waypoint.config",
+          "type": "File",
+          "artifact": {
+            "size": 1270,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/config/6.0/journeymap.waypoint.config",
+            "MD5": "19991803af33c0a2737e708f076fbd4a",
+            "path": "journeymap/config/6.0/journeymap.waypoint.config"
+          }
+        },
+        {
+          "id": "journeymap.webmap.config",
+          "name": "journeymap.webmap.config",
+          "type": "File",
+          "artifact": {
+            "size": 162,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/config/6.0/journeymap.webmap.config",
+            "MD5": "1d304d8b31ffaa20a0a0076f9f868818",
+            "path": "journeymap/config/6.0/journeymap.webmap.config"
+          }
+        },
+        {
+          "id": "horse_gray.png",
+          "name": "horse_gray.png",
+          "type": "File",
+          "artifact": {
+            "size": 482,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/entity/minecraft/horse_gray.png",
+            "MD5": "02d473d3316d3f18bbbc841e77f28e7e",
+            "path": "journeymap/icon/entity/minecraft/horse_gray.png"
+          }
+        },
+        {
+          "id": "horse_gray_outlined.png",
+          "name": "horse_gray_outlined.png",
+          "type": "File",
+          "artifact": {
+            "size": 598,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/entity/minecraft/horse_gray_outlined.png",
+            "MD5": "c5ecdcfde7009ff1f6002a97f1d52ecb",
+            "path": "journeymap/icon/entity/minecraft/horse_gray_outlined.png"
+          }
+        },
+        {
+          "id": "sheep.png",
+          "name": "sheep.png",
+          "type": "File",
+          "artifact": {
+            "size": 241,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/entity/minecraft/sheep.png",
+            "MD5": "f5a633690e247ec6b3658b5c26199622",
+            "path": "journeymap/icon/entity/minecraft/sheep.png"
+          }
+        },
+        {
+          "id": "sheep_outlined.png",
+          "name": "sheep_outlined.png",
+          "type": "File",
+          "artifact": {
+            "size": 291,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/entity/minecraft/sheep_outlined.png",
+            "MD5": "913852821cbe2748ba7e3ccb40844c71",
+            "path": "journeymap/icon/entity/minecraft/sheep_outlined.png"
+          }
+        },
+        {
+          "id": "villager.png",
+          "name": "villager.png",
+          "type": "File",
+          "artifact": {
+            "size": 288,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/entity/minecraft/villager.png",
+            "MD5": "cee093ade9c3083286bdff8995035e57",
+            "path": "journeymap/icon/entity/minecraft/villager.png"
+          }
+        },
+        {
+          "id": "villager_outlined.png",
+          "name": "villager_outlined.png",
+          "type": "File",
+          "artifact": {
+            "size": 305,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/entity/minecraft/villager_outlined.png",
+            "MD5": "5274cf65ad96505054ef1ad6b4cf6989",
+            "path": "journeymap/icon/entity/minecraft/villager_outlined.png"
+          }
+        },
+        {
+          "id": "default.theme.config",
+          "name": "default.theme.config",
+          "type": "File",
+          "artifact": {
+            "size": 69,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/default.theme.config",
+            "MD5": "e1d1b688bcc5ada3f50b1715fa3e2914",
+            "path": "journeymap/icon/theme/default.theme.config"
+          }
+        },
+        {
+          "id": "htoolbar_begin.png",
+          "name": "htoolbar_begin.png",
+          "type": "File",
+          "artifact": {
+            "size": 148,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/container/htoolbar_begin.png",
+            "MD5": "cfab66d0a13d5b7f359fabc1d9a19437",
+            "path": "journeymap/icon/theme/flat/container/htoolbar_begin.png"
+          }
+        },
+        {
+          "id": "htoolbar_end.png",
+          "name": "htoolbar_end.png",
+          "type": "File",
+          "artifact": {
+            "size": 148,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/container/htoolbar_end.png",
+            "MD5": "cfab66d0a13d5b7f359fabc1d9a19437",
+            "path": "journeymap/icon/theme/flat/container/htoolbar_end.png"
+          }
+        },
+        {
+          "id": "htoolbar_inner.png",
+          "name": "htoolbar_inner.png",
+          "type": "File",
+          "artifact": {
+            "size": 199,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/container/htoolbar_inner.png",
+            "MD5": "569e70e6e0c65135a9b6b6815b84b972",
+            "path": "journeymap/icon/theme/flat/container/htoolbar_inner.png"
+          }
+        },
+        {
+          "id": "vtoolbar_begin.png",
+          "name": "vtoolbar_begin.png",
+          "type": "File",
+          "artifact": {
+            "size": 145,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/container/vtoolbar_begin.png",
+            "MD5": "82b8b457e484046e479974e26ac2fa41",
+            "path": "journeymap/icon/theme/flat/container/vtoolbar_begin.png"
+          }
+        },
+        {
+          "id": "vtoolbar_end.png",
+          "name": "vtoolbar_end.png",
+          "type": "File",
+          "artifact": {
+            "size": 145,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/container/vtoolbar_end.png",
+            "MD5": "82b8b457e484046e479974e26ac2fa41",
+            "path": "journeymap/icon/theme/flat/container/vtoolbar_end.png"
+          }
+        },
+        {
+          "id": "vtoolbar_inner.png",
+          "name": "vtoolbar_inner.png",
+          "type": "File",
+          "artifact": {
+            "size": 199,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/container/vtoolbar_inner.png",
+            "MD5": "569e70e6e0c65135a9b6b6815b84b972",
+            "path": "journeymap/icon/theme/flat/container/vtoolbar_inner.png"
+          }
+        },
+        {
+          "id": "flat_button_disabled.png",
+          "name": "flat_button_disabled.png",
+          "type": "File",
+          "artifact": {
+            "size": 399,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/control/flat_button_disabled.png",
+            "MD5": "c3b4c14895831b27deb5b0880a71fe73",
+            "path": "journeymap/icon/theme/flat/control/flat_button_disabled.png"
+          }
+        },
+        {
+          "id": "flat_button_hover.png",
+          "name": "flat_button_hover.png",
+          "type": "File",
+          "artifact": {
+            "size": 399,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/control/flat_button_hover.png",
+            "MD5": "c3b4c14895831b27deb5b0880a71fe73",
+            "path": "journeymap/icon/theme/flat/control/flat_button_hover.png"
+          }
+        },
+        {
+          "id": "flat_button_off.png",
+          "name": "flat_button_off.png",
+          "type": "File",
+          "artifact": {
+            "size": 399,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/control/flat_button_off.png",
+            "MD5": "c3b4c14895831b27deb5b0880a71fe73",
+            "path": "journeymap/icon/theme/flat/control/flat_button_off.png"
+          }
+        },
+        {
+          "id": "flat_button_on.png",
+          "name": "flat_button_on.png",
+          "type": "File",
+          "artifact": {
+            "size": 399,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/control/flat_button_on.png",
+            "MD5": "c3b4c14895831b27deb5b0880a71fe73",
+            "path": "journeymap/icon/theme/flat/control/flat_button_on.png"
+          }
+        },
+        {
+          "id": "flat_toggle_disabled.png",
+          "name": "flat_toggle_disabled.png",
+          "type": "File",
+          "artifact": {
+            "size": 667,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/control/flat_toggle_disabled.png",
+            "MD5": "791d87e69e610e569353544f3687d3d0",
+            "path": "journeymap/icon/theme/flat/control/flat_toggle_disabled.png"
+          }
+        },
+        {
+          "id": "flat_toggle_hover.png",
+          "name": "flat_toggle_hover.png",
+          "type": "File",
+          "artifact": {
+            "size": 611,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/control/flat_toggle_hover.png",
+            "MD5": "f746c00ea1178ba9768a024dd79972ec",
+            "path": "journeymap/icon/theme/flat/control/flat_toggle_hover.png"
+          }
+        },
+        {
+          "id": "flat_toggle_off.png",
+          "name": "flat_toggle_off.png",
+          "type": "File",
+          "artifact": {
+            "size": 667,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/control/flat_toggle_off.png",
+            "MD5": "791d87e69e610e569353544f3687d3d0",
+            "path": "journeymap/icon/theme/flat/control/flat_toggle_off.png"
+          }
+        },
+        {
+          "id": "flat_toggle_on.png",
+          "name": "flat_toggle_on.png",
+          "type": "File",
+          "artifact": {
+            "size": 611,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/control/flat_toggle_on.png",
+            "MD5": "32333489c3af7acb084fc7d2e1d6b835",
+            "path": "journeymap/icon/theme/flat/control/flat_toggle_on.png"
+          }
+        },
+        {
+          "id": "DesertTemple.theme2.json",
+          "name": "DesertTemple.theme2.json",
+          "type": "File",
+          "artifact": {
+            "size": 8925,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/DesertTemple.theme2.json",
+            "MD5": "ef97d6d4a3c3a745a5a819f81617a3a4",
+            "path": "journeymap/icon/theme/flat/DesertTemple.theme2.json"
+          }
+        },
+        {
+          "id": "EndCity.theme2.json",
+          "name": "EndCity.theme2.json",
+          "type": "File",
+          "artifact": {
+            "size": 8920,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/EndCity.theme2.json",
+            "MD5": "8bd570528afe51dad02dcd97eaa16098",
+            "path": "journeymap/icon/theme/flat/EndCity.theme2.json"
+          }
+        },
+        {
+          "id": "ForestMansion.theme2.json",
+          "name": "ForestMansion.theme2.json",
+          "type": "File",
+          "artifact": {
+            "size": 8926,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/ForestMansion.theme2.json",
+            "MD5": "c0fb578a459a623baf538026edd27422",
+            "path": "journeymap/icon/theme/flat/ForestMansion.theme2.json"
+          }
+        },
+        {
+          "id": "about.png",
+          "name": "about.png",
+          "type": "File",
+          "artifact": {
+            "size": 651,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/about.png",
+            "MD5": "51dd21a90b121e6ee54629d7aa06bbe0",
+            "path": "journeymap/icon/theme/flat/icon/about.png"
+          }
+        },
+        {
+          "id": "actions.png",
+          "name": "actions.png",
+          "type": "File",
+          "artifact": {
+            "size": 1371,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/actions.png",
+            "MD5": "0ef11997aba83ffb45df8ef8fa5a7aac",
+            "path": "journeymap/icon/theme/flat/icon/actions.png"
+          }
+        },
+        {
+          "id": "alert.png",
+          "name": "alert.png",
+          "type": "File",
+          "artifact": {
+            "size": 1101,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/alert.png",
+            "MD5": "afaa1f1f124c7446ea79d69718e2e9a9",
+            "path": "journeymap/icon/theme/flat/icon/alert.png"
+          }
+        },
+        {
+          "id": "animals.png",
+          "name": "animals.png",
+          "type": "File",
+          "artifact": {
+            "size": 834,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/animals.png",
+            "MD5": "05d86dc96f528fd3f644384f82f4b30f",
+            "path": "journeymap/icon/theme/flat/icon/animals.png"
+          }
+        },
+        {
+          "id": "automap.png",
+          "name": "automap.png",
+          "type": "File",
+          "artifact": {
+            "size": 591,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/automap.png",
+            "MD5": "457dcb561ef49473e6242f8fabf1f0f1",
+            "path": "journeymap/icon/theme/flat/icon/automap.png"
+          }
+        },
+        {
+          "id": "biome.png",
+          "name": "biome.png",
+          "type": "File",
+          "artifact": {
+            "size": 1029,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/biome.png",
+            "MD5": "c45a1223330ab9056f931ee1df6a5c3c",
+            "path": "journeymap/icon/theme/flat/icon/biome.png"
+          }
+        },
+        {
+          "id": "browser.png",
+          "name": "browser.png",
+          "type": "File",
+          "artifact": {
+            "size": 1694,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/browser.png",
+            "MD5": "55898ae51928c26ba420bd3716c64b72",
+            "path": "journeymap/icon/theme/flat/icon/browser.png"
+          }
+        },
+        {
+          "id": "caves.png",
+          "name": "caves.png",
+          "type": "File",
+          "artifact": {
+            "size": 1081,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/caves.png",
+            "MD5": "7da04feb4cefb09e18cc3a095a083558",
+            "path": "journeymap/icon/theme/flat/icon/caves.png"
+          }
+        },
+        {
+          "id": "close.png",
+          "name": "close.png",
+          "type": "File",
+          "artifact": {
+            "size": 1373,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/close.png",
+            "MD5": "e4455f2a047f784231056e104293c161",
+            "path": "journeymap/icon/theme/flat/icon/close.png"
+          }
+        },
+        {
+          "id": "colorpalette.png",
+          "name": "colorpalette.png",
+          "type": "File",
+          "artifact": {
+            "size": 1174,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/colorpalette.png",
+            "MD5": "4803d8daf382ae19134355929fff14c0",
+            "path": "journeymap/icon/theme/flat/icon/colorpalette.png"
+          }
+        },
+        {
+          "id": "day.png",
+          "name": "day.png",
+          "type": "File",
+          "artifact": {
+            "size": 1515,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/day.png",
+            "MD5": "4b394cdd9d548238442673032c56fa57",
+            "path": "journeymap/icon/theme/flat/icon/day.png"
+          }
+        },
+        {
+          "id": "delete.png",
+          "name": "delete.png",
+          "type": "File",
+          "artifact": {
+            "size": 939,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/delete.png",
+            "MD5": "629d6824db2898ebc16a00ba14487552",
+            "path": "journeymap/icon/theme/flat/icon/delete.png"
+          }
+        },
+        {
+          "id": "disable.png",
+          "name": "disable.png",
+          "type": "File",
+          "artifact": {
+            "size": 833,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/disable.png",
+            "MD5": "73d4e93e1c708d3f20f3d14e24dfa001",
+            "path": "journeymap/icon/theme/flat/icon/disable.png"
+          }
+        },
+        {
+          "id": "follow.png",
+          "name": "follow.png",
+          "type": "File",
+          "artifact": {
+            "size": 1274,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/follow.png",
+            "MD5": "1af8b8c5d19f250bebc0b8a331a4467d",
+            "path": "journeymap/icon/theme/flat/icon/follow.png"
+          }
+        },
+        {
+          "id": "grid.png",
+          "name": "grid.png",
+          "type": "File",
+          "artifact": {
+            "size": 514,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/grid.png",
+            "MD5": "630458a6b626ae8c4661392e28327162",
+            "path": "journeymap/icon/theme/flat/icon/grid.png"
+          }
+        },
+        {
+          "id": "keys.png",
+          "name": "keys.png",
+          "type": "File",
+          "artifact": {
+            "size": 456,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/keys.png",
+            "MD5": "48438ebd8464da96a7d0ed12d041cebe",
+            "path": "journeymap/icon/theme/flat/icon/keys.png"
+          }
+        },
+        {
+          "id": "layers.png",
+          "name": "layers.png",
+          "type": "File",
+          "artifact": {
+            "size": 1339,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/layers.png",
+            "MD5": "450ef573defd780e53aed8b422c20188",
+            "path": "journeymap/icon/theme/flat/icon/layers.png"
+          }
+        },
+        {
+          "id": "monsters.png",
+          "name": "monsters.png",
+          "type": "File",
+          "artifact": {
+            "size": 482,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/monsters.png",
+            "MD5": "161f4b1825fe6aaa7e6c646e1df7c22d",
+            "path": "journeymap/icon/theme/flat/icon/monsters.png"
+          }
+        },
+        {
+          "id": "night.png",
+          "name": "night.png",
+          "type": "File",
+          "artifact": {
+            "size": 1035,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/night.png",
+            "MD5": "2c2e1ae5318cd9d3b566ebad983e641d",
+            "path": "journeymap/icon/theme/flat/icon/night.png"
+          }
+        },
+        {
+          "id": "options.png",
+          "name": "options.png",
+          "type": "File",
+          "artifact": {
+            "size": 644,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/options.png",
+            "MD5": "0b718c3c1ee9ee19d0dadae5f252535b",
+            "path": "journeymap/icon/theme/flat/icon/options.png"
+          }
+        },
+        {
+          "id": "pets.png",
+          "name": "pets.png",
+          "type": "File",
+          "artifact": {
+            "size": 827,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/pets.png",
+            "MD5": "ecff0a3a4cb9cc88eec4c65d83639d19",
+            "path": "journeymap/icon/theme/flat/icon/pets.png"
+          }
+        },
+        {
+          "id": "players.png",
+          "name": "players.png",
+          "type": "File",
+          "artifact": {
+            "size": 362,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/players.png",
+            "MD5": "ff8899097b21d8744ed57065cf25a5b2",
+            "path": "journeymap/icon/theme/flat/icon/players.png"
+          }
+        },
+        {
+          "id": "reset.png",
+          "name": "reset.png",
+          "type": "File",
+          "artifact": {
+            "size": 659,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/reset.png",
+            "MD5": "4027ef0ff444cab320978eb0a2974b7e",
+            "path": "journeymap/icon/theme/flat/icon/reset.png"
+          }
+        },
+        {
+          "id": "savemap.png",
+          "name": "savemap.png",
+          "type": "File",
+          "artifact": {
+            "size": 926,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/savemap.png",
+            "MD5": "be5bfbbeab34d292ddcef08f9d7383c8",
+            "path": "journeymap/icon/theme/flat/icon/savemap.png"
+          }
+        },
+        {
+          "id": "search.png",
+          "name": "search.png",
+          "type": "File",
+          "artifact": {
+            "size": 1168,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/search.png",
+            "MD5": "b30e5d3527eb483b344d47b11597b7df",
+            "path": "journeymap/icon/theme/flat/icon/search.png"
+          }
+        },
+        {
+          "id": "server.png",
+          "name": "server.png",
+          "type": "File",
+          "artifact": {
+            "size": 3038,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/server.png",
+            "MD5": "b934f10174be355e0414ccea904b019b",
+            "path": "journeymap/icon/theme/flat/icon/server.png"
+          }
+        },
+        {
+          "id": "topo.png",
+          "name": "topo.png",
+          "type": "File",
+          "artifact": {
+            "size": 1330,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/topo.png",
+            "MD5": "ed12bd7bd28debaaf75d1af3a910a1c6",
+            "path": "journeymap/icon/theme/flat/icon/topo.png"
+          }
+        },
+        {
+          "id": "villagers.png",
+          "name": "villagers.png",
+          "type": "File",
+          "artifact": {
+            "size": 659,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/villagers.png",
+            "MD5": "d5142cec9169f95f98c3fb51a8a24603",
+            "path": "journeymap/icon/theme/flat/icon/villagers.png"
+          }
+        },
+        {
+          "id": "waypoints.png",
+          "name": "waypoints.png",
+          "type": "File",
+          "artifact": {
+            "size": 1606,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/waypoints.png",
+            "MD5": "c7faaffc9c1ce8316f91bb934b19b5c7",
+            "path": "journeymap/icon/theme/flat/icon/waypoints.png"
+          }
+        },
+        {
+          "id": "zoomin.png",
+          "name": "zoomin.png",
+          "type": "File",
+          "artifact": {
+            "size": 1305,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/zoomin.png",
+            "MD5": "76e924ab75bab01b92d4c7bb97ac2625",
+            "path": "journeymap/icon/theme/flat/icon/zoomin.png"
+          }
+        },
+        {
+          "id": "zoomout.png",
+          "name": "zoomout.png",
+          "type": "File",
+          "artifact": {
+            "size": 1241,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/icon/zoomout.png",
+            "MD5": "d2e04e295c2f35c1f1c6801dc59dc440",
+            "path": "journeymap/icon/theme/flat/icon/zoomout.png"
+          }
+        },
+        {
+          "id": "flat_compass_point.png",
+          "name": "flat_compass_point.png",
+          "type": "File",
+          "artifact": {
+            "size": 589,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/circle/flat_compass_point.png",
+            "MD5": "cba29650354980f136db82cc52d55d89",
+            "path": "journeymap/icon/theme/flat/minimap/circle/flat_compass_point.png"
+          }
+        },
+        {
+          "id": "flat_mask_256.png",
+          "name": "flat_mask_256.png",
+          "type": "File",
+          "artifact": {
+            "size": 7020,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/circle/flat_mask_256.png",
+            "MD5": "4e3e20c86f375ae6d1b53f448835fdb8",
+            "path": "journeymap/icon/theme/flat/minimap/circle/flat_mask_256.png"
+          }
+        },
+        {
+          "id": "flat_mask_512.png",
+          "name": "flat_mask_512.png",
+          "type": "File",
+          "artifact": {
+            "size": 20438,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/circle/flat_mask_512.png",
+            "MD5": "1e908326f7bddbb59634164c52b39265",
+            "path": "journeymap/icon/theme/flat/minimap/circle/flat_mask_512.png"
+          }
+        },
+        {
+          "id": "flat_rim_256.png",
+          "name": "flat_rim_256.png",
+          "type": "File",
+          "artifact": {
+            "size": 6751,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/circle/flat_rim_256.png",
+            "MD5": "253e38c2aca245171819adc83e5d6950",
+            "path": "journeymap/icon/theme/flat/minimap/circle/flat_rim_256.png"
+          }
+        },
+        {
+          "id": "flat_rim_512.png",
+          "name": "flat_rim_512.png",
+          "type": "File",
+          "artifact": {
+            "size": 14309,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/circle/flat_rim_512.png",
+            "MD5": "edc555a83f714efa5c12d03865112628",
+            "path": "journeymap/icon/theme/flat/minimap/circle/flat_rim_512.png"
+          }
+        },
+        {
+          "id": "pur_compass_point.png",
+          "name": "pur_compass_point.png",
+          "type": "File",
+          "artifact": {
+            "size": 959,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/circle/pur_compass_point.png",
+            "MD5": "b93f935ef1173b4ba48bd95133568b56",
+            "path": "journeymap/icon/theme/flat/minimap/circle/pur_compass_point.png"
+          }
+        },
+        {
+          "id": "pur_mask_256.png",
+          "name": "pur_mask_256.png",
+          "type": "File",
+          "artifact": {
+            "size": 2067,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/circle/pur_mask_256.png",
+            "MD5": "9e3dd563a09eca2e7ce680aa0218d0e3",
+            "path": "journeymap/icon/theme/flat/minimap/circle/pur_mask_256.png"
+          }
+        },
+        {
+          "id": "pur_mask_512.png",
+          "name": "pur_mask_512.png",
+          "type": "File",
+          "artifact": {
+            "size": 10622,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/circle/pur_mask_512.png",
+            "MD5": "2135a5f65419ee3fcd0d63a722ec0cfd",
+            "path": "journeymap/icon/theme/flat/minimap/circle/pur_mask_512.png"
+          }
+        },
+        {
+          "id": "pur_rim_256.png",
+          "name": "pur_rim_256.png",
+          "type": "File",
+          "artifact": {
+            "size": 15210,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/circle/pur_rim_256.png",
+            "MD5": "8c28162acd291452f96b8962706545bb",
+            "path": "journeymap/icon/theme/flat/minimap/circle/pur_rim_256.png"
+          }
+        },
+        {
+          "id": "pur_rim_512.png",
+          "name": "pur_rim_512.png",
+          "type": "File",
+          "artifact": {
+            "size": 37803,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/circle/pur_rim_512.png",
+            "MD5": "6c67ecd99a7cbc14838c437f3059d245",
+            "path": "journeymap/icon/theme/flat/minimap/circle/pur_rim_512.png"
+          }
+        },
+        {
+          "id": "flat_bottom.png",
+          "name": "flat_bottom.png",
+          "type": "File",
+          "artifact": {
+            "size": 154,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/square/flat_bottom.png",
+            "MD5": "0dec683433cc1ed29578edbe447e0416",
+            "path": "journeymap/icon/theme/flat/minimap/square/flat_bottom.png"
+          }
+        },
+        {
+          "id": "flat_bottomleft.png",
+          "name": "flat_bottomleft.png",
+          "type": "File",
+          "artifact": {
+            "size": 159,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/square/flat_bottomleft.png",
+            "MD5": "e0ef36459a92962091b3c2297ebd492b",
+            "path": "journeymap/icon/theme/flat/minimap/square/flat_bottomleft.png"
+          }
+        },
+        {
+          "id": "flat_bottomright.png",
+          "name": "flat_bottomright.png",
+          "type": "File",
+          "artifact": {
+            "size": 162,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/square/flat_bottomright.png",
+            "MD5": "257056afd41430be6c6e017adbbec83b",
+            "path": "journeymap/icon/theme/flat/minimap/square/flat_bottomright.png"
+          }
+        },
+        {
+          "id": "flat_compass_point.png",
+          "name": "flat_compass_point.png",
+          "type": "File",
+          "artifact": {
+            "size": 199,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/square/flat_compass_point.png",
+            "MD5": "3e111929da1913b53355991ba69fdb9a",
+            "path": "journeymap/icon/theme/flat/minimap/square/flat_compass_point.png"
+          }
+        },
+        {
+          "id": "flat_left.png",
+          "name": "flat_left.png",
+          "type": "File",
+          "artifact": {
+            "size": 152,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/square/flat_left.png",
+            "MD5": "4784fe7e5dcf7cc3629399b67b1626c3",
+            "path": "journeymap/icon/theme/flat/minimap/square/flat_left.png"
+          }
+        },
+        {
+          "id": "flat_right.png",
+          "name": "flat_right.png",
+          "type": "File",
+          "artifact": {
+            "size": 153,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/square/flat_right.png",
+            "MD5": "f24bb1839602c9c4b507f36f03755f15",
+            "path": "journeymap/icon/theme/flat/minimap/square/flat_right.png"
+          }
+        },
+        {
+          "id": "flat_top.png",
+          "name": "flat_top.png",
+          "type": "File",
+          "artifact": {
+            "size": 154,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/square/flat_top.png",
+            "MD5": "5d32ccf7b5cf96c557976d18f7b9f807",
+            "path": "journeymap/icon/theme/flat/minimap/square/flat_top.png"
+          }
+        },
+        {
+          "id": "flat_topleft.png",
+          "name": "flat_topleft.png",
+          "type": "File",
+          "artifact": {
+            "size": 157,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/square/flat_topleft.png",
+            "MD5": "89dac45d101d30c5b68e8053c6882a0d",
+            "path": "journeymap/icon/theme/flat/minimap/square/flat_topleft.png"
+          }
+        },
+        {
+          "id": "flat_topright.png",
+          "name": "flat_topright.png",
+          "type": "File",
+          "artifact": {
+            "size": 157,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/square/flat_topright.png",
+            "MD5": "f8771e145f8364e82ed7ce3ae79e4bda",
+            "path": "journeymap/icon/theme/flat/minimap/square/flat_topright.png"
+          }
+        },
+        {
+          "id": "pur_bottom.png",
+          "name": "pur_bottom.png",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/square/pur_bottom.png",
+            "MD5": "7ebab006d87fcbc1da28990b3f923989",
+            "path": "journeymap/icon/theme/flat/minimap/square/pur_bottom.png"
+          }
+        },
+        {
+          "id": "pur_bottomleft.png",
+          "name": "pur_bottomleft.png",
+          "type": "File",
+          "artifact": {
+            "size": 207,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/square/pur_bottomleft.png",
+            "MD5": "ef8534a2f05d2c3106f0720e93eddb3f",
+            "path": "journeymap/icon/theme/flat/minimap/square/pur_bottomleft.png"
+          }
+        },
+        {
+          "id": "pur_bottomright.png",
+          "name": "pur_bottomright.png",
+          "type": "File",
+          "artifact": {
+            "size": 215,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/square/pur_bottomright.png",
+            "MD5": "4b7003eba91d737295e1429d66b31156",
+            "path": "journeymap/icon/theme/flat/minimap/square/pur_bottomright.png"
+          }
+        },
+        {
+          "id": "pur_compass_point.png",
+          "name": "pur_compass_point.png",
+          "type": "File",
+          "artifact": {
+            "size": 199,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/square/pur_compass_point.png",
+            "MD5": "3e111929da1913b53355991ba69fdb9a",
+            "path": "journeymap/icon/theme/flat/minimap/square/pur_compass_point.png"
+          }
+        },
+        {
+          "id": "pur_left.png",
+          "name": "pur_left.png",
+          "type": "File",
+          "artifact": {
+            "size": 160,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/square/pur_left.png",
+            "MD5": "7c9ed0e45981a75dfe3f713c00c1acfb",
+            "path": "journeymap/icon/theme/flat/minimap/square/pur_left.png"
+          }
+        },
+        {
+          "id": "pur_right.png",
+          "name": "pur_right.png",
+          "type": "File",
+          "artifact": {
+            "size": 163,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/square/pur_right.png",
+            "MD5": "4f353bcd3ffab12b1bd48705732a91dc",
+            "path": "journeymap/icon/theme/flat/minimap/square/pur_right.png"
+          }
+        },
+        {
+          "id": "pur_top.png",
+          "name": "pur_top.png",
+          "type": "File",
+          "artifact": {
+            "size": 159,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/square/pur_top.png",
+            "MD5": "fe079179f72d2be13e42252336db233b",
+            "path": "journeymap/icon/theme/flat/minimap/square/pur_top.png"
+          }
+        },
+        {
+          "id": "pur_topleft.png",
+          "name": "pur_topleft.png",
+          "type": "File",
+          "artifact": {
+            "size": 205,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/square/pur_topleft.png",
+            "MD5": "01e815c33e5bec079337e6cf7739511e",
+            "path": "journeymap/icon/theme/flat/minimap/square/pur_topleft.png"
+          }
+        },
+        {
+          "id": "pur_topright.png",
+          "name": "pur_topright.png",
+          "type": "File",
+          "artifact": {
+            "size": 226,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/minimap/square/pur_topright.png",
+            "MD5": "e800293134c150236f70b7da30bd7169",
+            "path": "journeymap/icon/theme/flat/minimap/square/pur_topright.png"
+          }
+        },
+        {
+          "id": "NetherFortress.theme2.json",
+          "name": "NetherFortress.theme2.json",
+          "type": "File",
+          "artifact": {
+            "size": 8927,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/NetherFortress.theme2.json",
+            "MD5": "17e698f2232e0839fc2ea8cf0b2bcfd4",
+            "path": "journeymap/icon/theme/flat/NetherFortress.theme2.json"
+          }
+        },
+        {
+          "id": "OceanMonument.theme2.json",
+          "name": "OceanMonument.theme2.json",
+          "type": "File",
+          "artifact": {
+            "size": 8926,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/OceanMonument.theme2.json",
+            "MD5": "3320c6ddb02866175d0b13f98e5ab7ff",
+            "path": "journeymap/icon/theme/flat/OceanMonument.theme2.json"
+          }
+        },
+        {
+          "id": "Purist.theme2.json",
+          "name": "Purist.theme2.json",
+          "type": "File",
+          "artifact": {
+            "size": 8909,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/Purist.theme2.json",
+            "MD5": "dfd5b0a677c3fe57c7f024151fe93097",
+            "path": "journeymap/icon/theme/flat/Purist.theme2.json"
+          }
+        },
+        {
+          "id": "Stronghold.theme2.json",
+          "name": "Stronghold.theme2.json",
+          "type": "File",
+          "artifact": {
+            "size": 8923,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/flat/Stronghold.theme2.json",
+            "MD5": "875fcfd96f8371c6e3a0fcd7fca994df",
+            "path": "journeymap/icon/theme/flat/Stronghold.theme2.json"
+          }
+        },
+        {
+          "id": "htoolbar_begin.png",
+          "name": "htoolbar_begin.png",
+          "type": "File",
+          "artifact": {
+            "size": 3776,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/container/htoolbar_begin.png",
+            "MD5": "bcd6f62b175e7b9e722ef98437d5dd5b",
+            "path": "journeymap/icon/theme/vault/container/htoolbar_begin.png"
+          }
+        },
+        {
+          "id": "htoolbar_end.png",
+          "name": "htoolbar_end.png",
+          "type": "File",
+          "artifact": {
+            "size": 2668,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/container/htoolbar_end.png",
+            "MD5": "0c0dd5c73d9a7a6ba0807355bb878ac5",
+            "path": "journeymap/icon/theme/vault/container/htoolbar_end.png"
+          }
+        },
+        {
+          "id": "htoolbar_inner.png",
+          "name": "htoolbar_inner.png",
+          "type": "File",
+          "artifact": {
+            "size": 1438,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/container/htoolbar_inner.png",
+            "MD5": "ec8cb925ffd88af2fd9612fab3c693a4",
+            "path": "journeymap/icon/theme/vault/container/htoolbar_inner.png"
+          }
+        },
+        {
+          "id": "vtoolbar_begin.png",
+          "name": "vtoolbar_begin.png",
+          "type": "File",
+          "artifact": {
+            "size": 2583,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/container/vtoolbar_begin.png",
+            "MD5": "60df63336d19db421326706ade48cc1e",
+            "path": "journeymap/icon/theme/vault/container/vtoolbar_begin.png"
+          }
+        },
+        {
+          "id": "vtoolbar_end.png",
+          "name": "vtoolbar_end.png",
+          "type": "File",
+          "artifact": {
+            "size": 2609,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/container/vtoolbar_end.png",
+            "MD5": "62e382c687f7facbf5d7af4b3f71d0cb",
+            "path": "journeymap/icon/theme/vault/container/vtoolbar_end.png"
+          }
+        },
+        {
+          "id": "vtoolbar_inner.png",
+          "name": "vtoolbar_inner.png",
+          "type": "File",
+          "artifact": {
+            "size": 490,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/container/vtoolbar_inner.png",
+            "MD5": "52cdfca24089964a193a38a24cfb8fd1",
+            "path": "journeymap/icon/theme/vault/container/vtoolbar_inner.png"
+          }
+        },
+        {
+          "id": "flat_button_disabled.png",
+          "name": "flat_button_disabled.png",
+          "type": "File",
+          "artifact": {
+            "size": 246,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/control/flat_button_disabled.png",
+            "MD5": "d0b60e2e7d6355467577b647219a95d3",
+            "path": "journeymap/icon/theme/vault/control/flat_button_disabled.png"
+          }
+        },
+        {
+          "id": "flat_button_hover.png",
+          "name": "flat_button_hover.png",
+          "type": "File",
+          "artifact": {
+            "size": 231,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/control/flat_button_hover.png",
+            "MD5": "5ef7000ecd91e972a4b9cc277244a153",
+            "path": "journeymap/icon/theme/vault/control/flat_button_hover.png"
+          }
+        },
+        {
+          "id": "flat_button_off.png",
+          "name": "flat_button_off.png",
+          "type": "File",
+          "artifact": {
+            "size": 246,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/control/flat_button_off.png",
+            "MD5": "960a18d54909628b6080b8b6ba45c70b",
+            "path": "journeymap/icon/theme/vault/control/flat_button_off.png"
+          }
+        },
+        {
+          "id": "flat_button_on.png",
+          "name": "flat_button_on.png",
+          "type": "File",
+          "artifact": {
+            "size": 221,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/control/flat_button_on.png",
+            "MD5": "ec0c6ffad1db3301546b1ae9bea17969",
+            "path": "journeymap/icon/theme/vault/control/flat_button_on.png"
+          }
+        },
+        {
+          "id": "flat_toggle_disabled.png",
+          "name": "flat_toggle_disabled.png",
+          "type": "File",
+          "artifact": {
+            "size": 246,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/control/flat_toggle_disabled.png",
+            "MD5": "d0b60e2e7d6355467577b647219a95d3",
+            "path": "journeymap/icon/theme/vault/control/flat_toggle_disabled.png"
+          }
+        },
+        {
+          "id": "flat_toggle_hover.png",
+          "name": "flat_toggle_hover.png",
+          "type": "File",
+          "artifact": {
+            "size": 231,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/control/flat_toggle_hover.png",
+            "MD5": "9586613565eef1ca161762f7cc00d2ba",
+            "path": "journeymap/icon/theme/vault/control/flat_toggle_hover.png"
+          }
+        },
+        {
+          "id": "flat_toggle_off.png",
+          "name": "flat_toggle_off.png",
+          "type": "File",
+          "artifact": {
+            "size": 246,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/control/flat_toggle_off.png",
+            "MD5": "960a18d54909628b6080b8b6ba45c70b",
+            "path": "journeymap/icon/theme/vault/control/flat_toggle_off.png"
+          }
+        },
+        {
+          "id": "flat_toggle_on.png",
+          "name": "flat_toggle_on.png",
+          "type": "File",
+          "artifact": {
+            "size": 221,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/control/flat_toggle_on.png",
+            "MD5": "ec0c6ffad1db3301546b1ae9bea17969",
+            "path": "journeymap/icon/theme/vault/control/flat_toggle_on.png"
+          }
+        },
+        {
+          "id": "about.png",
+          "name": "about.png",
+          "type": "File",
+          "artifact": {
+            "size": 651,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/about.png",
+            "MD5": "51dd21a90b121e6ee54629d7aa06bbe0",
+            "path": "journeymap/icon/theme/vault/icon/about.png"
+          }
+        },
+        {
+          "id": "actions.png",
+          "name": "actions.png",
+          "type": "File",
+          "artifact": {
+            "size": 1244,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/actions.png",
+            "MD5": "4b34cadc25f464e0bb26efc78fae7d15",
+            "path": "journeymap/icon/theme/vault/icon/actions.png"
+          }
+        },
+        {
+          "id": "alert.png",
+          "name": "alert.png",
+          "type": "File",
+          "artifact": {
+            "size": 818,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/alert.png",
+            "MD5": "4cef6ccb045d056ba860b1deec88bd0f",
+            "path": "journeymap/icon/theme/vault/icon/alert.png"
+          }
+        },
+        {
+          "id": "animals.png",
+          "name": "animals.png",
+          "type": "File",
+          "artifact": {
+            "size": 978,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/animals.png",
+            "MD5": "cfa7925fd87955daf2b38c11523fafed",
+            "path": "journeymap/icon/theme/vault/icon/animals.png"
+          }
+        },
+        {
+          "id": "automap.png",
+          "name": "automap.png",
+          "type": "File",
+          "artifact": {
+            "size": 1598,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/automap.png",
+            "MD5": "930540047230d5066e1795799b372b89",
+            "path": "journeymap/icon/theme/vault/icon/automap.png"
+          }
+        },
+        {
+          "id": "biome.png",
+          "name": "biome.png",
+          "type": "File",
+          "artifact": {
+            "size": 1029,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/biome.png",
+            "MD5": "c45a1223330ab9056f931ee1df6a5c3c",
+            "path": "journeymap/icon/theme/vault/icon/biome.png"
+          }
+        },
+        {
+          "id": "browser.png",
+          "name": "browser.png",
+          "type": "File",
+          "artifact": {
+            "size": 1694,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/browser.png",
+            "MD5": "55898ae51928c26ba420bd3716c64b72",
+            "path": "journeymap/icon/theme/vault/icon/browser.png"
+          }
+        },
+        {
+          "id": "caves.png",
+          "name": "caves.png",
+          "type": "File",
+          "artifact": {
+            "size": 939,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/caves.png",
+            "MD5": "51de7c137d2f11e2630101e84ea1b322",
+            "path": "journeymap/icon/theme/vault/icon/caves.png"
+          }
+        },
+        {
+          "id": "close.png",
+          "name": "close.png",
+          "type": "File",
+          "artifact": {
+            "size": 1021,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/close.png",
+            "MD5": "b1079574082853abf4f80108a019a5f2",
+            "path": "journeymap/icon/theme/vault/icon/close.png"
+          }
+        },
+        {
+          "id": "colorpalette.png",
+          "name": "colorpalette.png",
+          "type": "File",
+          "artifact": {
+            "size": 1174,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/colorpalette.png",
+            "MD5": "4803d8daf382ae19134355929fff14c0",
+            "path": "journeymap/icon/theme/vault/icon/colorpalette.png"
+          }
+        },
+        {
+          "id": "day.png",
+          "name": "day.png",
+          "type": "File",
+          "artifact": {
+            "size": 1151,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/day.png",
+            "MD5": "6bb079e433e851db3b4da7e506f7152c",
+            "path": "journeymap/icon/theme/vault/icon/day.png"
+          }
+        },
+        {
+          "id": "delete.png",
+          "name": "delete.png",
+          "type": "File",
+          "artifact": {
+            "size": 939,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/delete.png",
+            "MD5": "629d6824db2898ebc16a00ba14487552",
+            "path": "journeymap/icon/theme/vault/icon/delete.png"
+          }
+        },
+        {
+          "id": "disable.png",
+          "name": "disable.png",
+          "type": "File",
+          "artifact": {
+            "size": 833,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/disable.png",
+            "MD5": "73d4e93e1c708d3f20f3d14e24dfa001",
+            "path": "journeymap/icon/theme/vault/icon/disable.png"
+          }
+        },
+        {
+          "id": "follow.png",
+          "name": "follow.png",
+          "type": "File",
+          "artifact": {
+            "size": 1139,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/follow.png",
+            "MD5": "638d66388338cb398e3c4b5b7350dd09",
+            "path": "journeymap/icon/theme/vault/icon/follow.png"
+          }
+        },
+        {
+          "id": "grid.png",
+          "name": "grid.png",
+          "type": "File",
+          "artifact": {
+            "size": 664,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/grid.png",
+            "MD5": "55d3070ee3dcac458c1d1514a90e01a7",
+            "path": "journeymap/icon/theme/vault/icon/grid.png"
+          }
+        },
+        {
+          "id": "keys.png",
+          "name": "keys.png",
+          "type": "File",
+          "artifact": {
+            "size": 456,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/keys.png",
+            "MD5": "48438ebd8464da96a7d0ed12d041cebe",
+            "path": "journeymap/icon/theme/vault/icon/keys.png"
+          }
+        },
+        {
+          "id": "layers.png",
+          "name": "layers.png",
+          "type": "File",
+          "artifact": {
+            "size": 1194,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/layers.png",
+            "MD5": "985cd9b7a009fae6d35e8c5fcc07dd9e",
+            "path": "journeymap/icon/theme/vault/icon/layers.png"
+          }
+        },
+        {
+          "id": "monsters.png",
+          "name": "monsters.png",
+          "type": "File",
+          "artifact": {
+            "size": 1116,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/monsters.png",
+            "MD5": "14e7ce0dd7c3e7cbca7c057f4d97a267",
+            "path": "journeymap/icon/theme/vault/icon/monsters.png"
+          }
+        },
+        {
+          "id": "night.png",
+          "name": "night.png",
+          "type": "File",
+          "artifact": {
+            "size": 902,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/night.png",
+            "MD5": "e734ca7a960bc49a32fa3e1ef0c075bb",
+            "path": "journeymap/icon/theme/vault/icon/night.png"
+          }
+        },
+        {
+          "id": "options.png",
+          "name": "options.png",
+          "type": "File",
+          "artifact": {
+            "size": 569,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/options.png",
+            "MD5": "8c101a06c4b6eaa68f2ab7e40a8a73a5",
+            "path": "journeymap/icon/theme/vault/icon/options.png"
+          }
+        },
+        {
+          "id": "pets.png",
+          "name": "pets.png",
+          "type": "File",
+          "artifact": {
+            "size": 727,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/pets.png",
+            "MD5": "46ee14ca89c0fc121246547a1a87b2f3",
+            "path": "journeymap/icon/theme/vault/icon/pets.png"
+          }
+        },
+        {
+          "id": "players.png",
+          "name": "players.png",
+          "type": "File",
+          "artifact": {
+            "size": 1369,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/players.png",
+            "MD5": "f0b63f2b603994b6d07a14d5e6d4f6c7",
+            "path": "journeymap/icon/theme/vault/icon/players.png"
+          }
+        },
+        {
+          "id": "reset.png",
+          "name": "reset.png",
+          "type": "File",
+          "artifact": {
+            "size": 659,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/reset.png",
+            "MD5": "4027ef0ff444cab320978eb0a2974b7e",
+            "path": "journeymap/icon/theme/vault/icon/reset.png"
+          }
+        },
+        {
+          "id": "savemap.png",
+          "name": "savemap.png",
+          "type": "File",
+          "artifact": {
+            "size": 831,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/savemap.png",
+            "MD5": "0d9582b0c2f410f8a13debc769af4594",
+            "path": "journeymap/icon/theme/vault/icon/savemap.png"
+          }
+        },
+        {
+          "id": "search.png",
+          "name": "search.png",
+          "type": "File",
+          "artifact": {
+            "size": 1168,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/search.png",
+            "MD5": "b30e5d3527eb483b344d47b11597b7df",
+            "path": "journeymap/icon/theme/vault/icon/search.png"
+          }
+        },
+        {
+          "id": "server.png",
+          "name": "server.png",
+          "type": "File",
+          "artifact": {
+            "size": 3038,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/server.png",
+            "MD5": "b934f10174be355e0414ccea904b019b",
+            "path": "journeymap/icon/theme/vault/icon/server.png"
+          }
+        },
+        {
+          "id": "topo.png",
+          "name": "topo.png",
+          "type": "File",
+          "artifact": {
+            "size": 1330,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/topo.png",
+            "MD5": "ed12bd7bd28debaaf75d1af3a910a1c6",
+            "path": "journeymap/icon/theme/vault/icon/topo.png"
+          }
+        },
+        {
+          "id": "villagers.png",
+          "name": "villagers.png",
+          "type": "File",
+          "artifact": {
+            "size": 1272,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/villagers.png",
+            "MD5": "bd3ef6aa006301204f9f09f3db761cfc",
+            "path": "journeymap/icon/theme/vault/icon/villagers.png"
+          }
+        },
+        {
+          "id": "waypoints.png",
+          "name": "waypoints.png",
+          "type": "File",
+          "artifact": {
+            "size": 620,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/waypoints.png",
+            "MD5": "5b29da1764cec3a74ee7f0deba89db50",
+            "path": "journeymap/icon/theme/vault/icon/waypoints.png"
+          }
+        },
+        {
+          "id": "zoomin.png",
+          "name": "zoomin.png",
+          "type": "File",
+          "artifact": {
+            "size": 1155,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/zoomin.png",
+            "MD5": "be2d0cd05adf64b6147d27b1a27f06ae",
+            "path": "journeymap/icon/theme/vault/icon/zoomin.png"
+          }
+        },
+        {
+          "id": "zoomout.png",
+          "name": "zoomout.png",
+          "type": "File",
+          "artifact": {
+            "size": 1090,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/icon/zoomout.png",
+            "MD5": "dd4e8a25f35d1265543b924d01188e40",
+            "path": "journeymap/icon/theme/vault/icon/zoomout.png"
+          }
+        },
+        {
+          "id": "flat_bottom.png",
+          "name": "flat_bottom.png",
+          "type": "File",
+          "artifact": {
+            "size": 214,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/minimap/square/flat_bottom.png",
+            "MD5": "e44666a1a7caddce99263b40096aac22",
+            "path": "journeymap/icon/theme/vault/minimap/square/flat_bottom.png"
+          }
+        },
+        {
+          "id": "flat_bottomleft.png",
+          "name": "flat_bottomleft.png",
+          "type": "File",
+          "artifact": {
+            "size": 18970,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/minimap/square/flat_bottomleft.png",
+            "MD5": "91112dc5925f2697f60156fb6a8187fa",
+            "path": "journeymap/icon/theme/vault/minimap/square/flat_bottomleft.png"
+          }
+        },
+        {
+          "id": "flat_bottomright.png",
+          "name": "flat_bottomright.png",
+          "type": "File",
+          "artifact": {
+            "size": 10832,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/minimap/square/flat_bottomright.png",
+            "MD5": "2df051aedbbfa8b2098a9e790c4243e1",
+            "path": "journeymap/icon/theme/vault/minimap/square/flat_bottomright.png"
+          }
+        },
+        {
+          "id": "flat_compass_point.png",
+          "name": "flat_compass_point.png",
+          "type": "File",
+          "artifact": {
+            "size": 289,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/minimap/square/flat_compass_point.png",
+            "MD5": "7a9b67a06745f38b56cc8f25d59542a7",
+            "path": "journeymap/icon/theme/vault/minimap/square/flat_compass_point.png"
+          }
+        },
+        {
+          "id": "flat_left.png",
+          "name": "flat_left.png",
+          "type": "File",
+          "artifact": {
+            "size": 246,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/minimap/square/flat_left.png",
+            "MD5": "d5f4e77f1d001a4a4a2d373dbaf8e296",
+            "path": "journeymap/icon/theme/vault/minimap/square/flat_left.png"
+          }
+        },
+        {
+          "id": "flat_right.png",
+          "name": "flat_right.png",
+          "type": "File",
+          "artifact": {
+            "size": 224,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/minimap/square/flat_right.png",
+            "MD5": "7d14e4d66551a78a9d79116bbf6aec93",
+            "path": "journeymap/icon/theme/vault/minimap/square/flat_right.png"
+          }
+        },
+        {
+          "id": "flat_top.png",
+          "name": "flat_top.png",
+          "type": "File",
+          "artifact": {
+            "size": 228,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/minimap/square/flat_top.png",
+            "MD5": "7bec791f17afff61649d1a33ddc3ab62",
+            "path": "journeymap/icon/theme/vault/minimap/square/flat_top.png"
+          }
+        },
+        {
+          "id": "flat_topleft.png",
+          "name": "flat_topleft.png",
+          "type": "File",
+          "artifact": {
+            "size": 10437,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/minimap/square/flat_topleft.png",
+            "MD5": "8928cae497b28d525eee74781eb2f6ca",
+            "path": "journeymap/icon/theme/vault/minimap/square/flat_topleft.png"
+          }
+        },
+        {
+          "id": "flat_topright.png",
+          "name": "flat_topright.png",
+          "type": "File",
+          "artifact": {
+            "size": 10851,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/minimap/square/flat_topright.png",
+            "MD5": "371bfa8ef063f4ec88f3f301214e8d6f",
+            "path": "journeymap/icon/theme/vault/minimap/square/flat_topright.png"
+          }
+        },
+        {
+          "id": "pur_bottom.png",
+          "name": "pur_bottom.png",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/minimap/square/pur_bottom.png",
+            "MD5": "7ebab006d87fcbc1da28990b3f923989",
+            "path": "journeymap/icon/theme/vault/minimap/square/pur_bottom.png"
+          }
+        },
+        {
+          "id": "vault.theme2.json",
+          "name": "vault.theme2.json",
+          "type": "File",
+          "artifact": {
+            "size": 6007,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/vault.theme2.json",
+            "MD5": "bdd64dd1e8dd86c02f560fa393d528de",
+            "path": "journeymap/icon/theme/vault/vault.theme2.json"
+          }
+        },
+        {
+          "id": "htoolbar_begin.png",
+          "name": "htoolbar_begin.png",
+          "type": "File",
+          "artifact": {
+            "size": 1189,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/container/htoolbar_begin.png",
+            "MD5": "249cee57226fe7865363654bb607f596",
+            "path": "journeymap/icon/theme/vault/_flat/container/htoolbar_begin.png"
+          }
+        },
+        {
+          "id": "htoolbar_end.png",
+          "name": "htoolbar_end.png",
+          "type": "File",
+          "artifact": {
+            "size": 1189,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/container/htoolbar_end.png",
+            "MD5": "249cee57226fe7865363654bb607f596",
+            "path": "journeymap/icon/theme/vault/_flat/container/htoolbar_end.png"
+          }
+        },
+        {
+          "id": "htoolbar_inner.png",
+          "name": "htoolbar_inner.png",
+          "type": "File",
+          "artifact": {
+            "size": 1189,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/container/htoolbar_inner.png",
+            "MD5": "249cee57226fe7865363654bb607f596",
+            "path": "journeymap/icon/theme/vault/_flat/container/htoolbar_inner.png"
+          }
+        },
+        {
+          "id": "unkown.png",
+          "name": "unkown.png",
+          "type": "File",
+          "artifact": {
+            "size": 1189,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/container/unkown.png",
+            "MD5": "249cee57226fe7865363654bb607f596",
+            "path": "journeymap/icon/theme/vault/_flat/container/unkown.png"
+          }
+        },
+        {
+          "id": "vtoolbar_begin.png",
+          "name": "vtoolbar_begin.png",
+          "type": "File",
+          "artifact": {
+            "size": 1189,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/container/vtoolbar_begin.png",
+            "MD5": "249cee57226fe7865363654bb607f596",
+            "path": "journeymap/icon/theme/vault/_flat/container/vtoolbar_begin.png"
+          }
+        },
+        {
+          "id": "vtoolbar_end.png",
+          "name": "vtoolbar_end.png",
+          "type": "File",
+          "artifact": {
+            "size": 1189,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/container/vtoolbar_end.png",
+            "MD5": "249cee57226fe7865363654bb607f596",
+            "path": "journeymap/icon/theme/vault/_flat/container/vtoolbar_end.png"
+          }
+        },
+        {
+          "id": "vtoolbar_inner.png",
+          "name": "vtoolbar_inner.png",
+          "type": "File",
+          "artifact": {
+            "size": 1189,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/container/vtoolbar_inner.png",
+            "MD5": "249cee57226fe7865363654bb607f596",
+            "path": "journeymap/icon/theme/vault/_flat/container/vtoolbar_inner.png"
+          }
+        },
+        {
+          "id": "flat_button_disabled.png",
+          "name": "flat_button_disabled.png",
+          "type": "File",
+          "artifact": {
+            "size": 246,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/control/flat_button_disabled.png",
+            "MD5": "d0b60e2e7d6355467577b647219a95d3",
+            "path": "journeymap/icon/theme/vault/_flat/control/flat_button_disabled.png"
+          }
+        },
+        {
+          "id": "flat_button_hover.png",
+          "name": "flat_button_hover.png",
+          "type": "File",
+          "artifact": {
+            "size": 231,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/control/flat_button_hover.png",
+            "MD5": "5ef7000ecd91e972a4b9cc277244a153",
+            "path": "journeymap/icon/theme/vault/_flat/control/flat_button_hover.png"
+          }
+        },
+        {
+          "id": "flat_button_off.png",
+          "name": "flat_button_off.png",
+          "type": "File",
+          "artifact": {
+            "size": 246,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/control/flat_button_off.png",
+            "MD5": "960a18d54909628b6080b8b6ba45c70b",
+            "path": "journeymap/icon/theme/vault/_flat/control/flat_button_off.png"
+          }
+        },
+        {
+          "id": "flat_button_on.png",
+          "name": "flat_button_on.png",
+          "type": "File",
+          "artifact": {
+            "size": 221,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/control/flat_button_on.png",
+            "MD5": "ec0c6ffad1db3301546b1ae9bea17969",
+            "path": "journeymap/icon/theme/vault/_flat/control/flat_button_on.png"
+          }
+        },
+        {
+          "id": "flat_toggle_disabled.png",
+          "name": "flat_toggle_disabled.png",
+          "type": "File",
+          "artifact": {
+            "size": 246,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/control/flat_toggle_disabled.png",
+            "MD5": "d0b60e2e7d6355467577b647219a95d3",
+            "path": "journeymap/icon/theme/vault/_flat/control/flat_toggle_disabled.png"
+          }
+        },
+        {
+          "id": "flat_toggle_hover.png",
+          "name": "flat_toggle_hover.png",
+          "type": "File",
+          "artifact": {
+            "size": 231,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/control/flat_toggle_hover.png",
+            "MD5": "9586613565eef1ca161762f7cc00d2ba",
+            "path": "journeymap/icon/theme/vault/_flat/control/flat_toggle_hover.png"
+          }
+        },
+        {
+          "id": "flat_toggle_off.png",
+          "name": "flat_toggle_off.png",
+          "type": "File",
+          "artifact": {
+            "size": 246,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/control/flat_toggle_off.png",
+            "MD5": "960a18d54909628b6080b8b6ba45c70b",
+            "path": "journeymap/icon/theme/vault/_flat/control/flat_toggle_off.png"
+          }
+        },
+        {
+          "id": "flat_toggle_on.png",
+          "name": "flat_toggle_on.png",
+          "type": "File",
+          "artifact": {
+            "size": 221,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/control/flat_toggle_on.png",
+            "MD5": "ec0c6ffad1db3301546b1ae9bea17969",
+            "path": "journeymap/icon/theme/vault/_flat/control/flat_toggle_on.png"
+          }
+        },
+        {
+          "id": "about.png",
+          "name": "about.png",
+          "type": "File",
+          "artifact": {
+            "size": 651,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/about.png",
+            "MD5": "51dd21a90b121e6ee54629d7aa06bbe0",
+            "path": "journeymap/icon/theme/vault/_flat/icon/about.png"
+          }
+        },
+        {
+          "id": "actions.png",
+          "name": "actions.png",
+          "type": "File",
+          "artifact": {
+            "size": 1244,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/actions.png",
+            "MD5": "4b34cadc25f464e0bb26efc78fae7d15",
+            "path": "journeymap/icon/theme/vault/_flat/icon/actions.png"
+          }
+        },
+        {
+          "id": "alert.png",
+          "name": "alert.png",
+          "type": "File",
+          "artifact": {
+            "size": 818,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/alert.png",
+            "MD5": "4cef6ccb045d056ba860b1deec88bd0f",
+            "path": "journeymap/icon/theme/vault/_flat/icon/alert.png"
+          }
+        },
+        {
+          "id": "animals.png",
+          "name": "animals.png",
+          "type": "File",
+          "artifact": {
+            "size": 978,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/animals.png",
+            "MD5": "cfa7925fd87955daf2b38c11523fafed",
+            "path": "journeymap/icon/theme/vault/_flat/icon/animals.png"
+          }
+        },
+        {
+          "id": "automap.png",
+          "name": "automap.png",
+          "type": "File",
+          "artifact": {
+            "size": 1598,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/automap.png",
+            "MD5": "930540047230d5066e1795799b372b89",
+            "path": "journeymap/icon/theme/vault/_flat/icon/automap.png"
+          }
+        },
+        {
+          "id": "biome.png",
+          "name": "biome.png",
+          "type": "File",
+          "artifact": {
+            "size": 1029,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/biome.png",
+            "MD5": "c45a1223330ab9056f931ee1df6a5c3c",
+            "path": "journeymap/icon/theme/vault/_flat/icon/biome.png"
+          }
+        },
+        {
+          "id": "browser.png",
+          "name": "browser.png",
+          "type": "File",
+          "artifact": {
+            "size": 1694,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/browser.png",
+            "MD5": "55898ae51928c26ba420bd3716c64b72",
+            "path": "journeymap/icon/theme/vault/_flat/icon/browser.png"
+          }
+        },
+        {
+          "id": "caves.png",
+          "name": "caves.png",
+          "type": "File",
+          "artifact": {
+            "size": 939,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/caves.png",
+            "MD5": "51de7c137d2f11e2630101e84ea1b322",
+            "path": "journeymap/icon/theme/vault/_flat/icon/caves.png"
+          }
+        },
+        {
+          "id": "close.png",
+          "name": "close.png",
+          "type": "File",
+          "artifact": {
+            "size": 1021,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/close.png",
+            "MD5": "b1079574082853abf4f80108a019a5f2",
+            "path": "journeymap/icon/theme/vault/_flat/icon/close.png"
+          }
+        },
+        {
+          "id": "colorpalette.png",
+          "name": "colorpalette.png",
+          "type": "File",
+          "artifact": {
+            "size": 1174,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/colorpalette.png",
+            "MD5": "4803d8daf382ae19134355929fff14c0",
+            "path": "journeymap/icon/theme/vault/_flat/icon/colorpalette.png"
+          }
+        },
+        {
+          "id": "day.png",
+          "name": "day.png",
+          "type": "File",
+          "artifact": {
+            "size": 1151,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/day.png",
+            "MD5": "6bb079e433e851db3b4da7e506f7152c",
+            "path": "journeymap/icon/theme/vault/_flat/icon/day.png"
+          }
+        },
+        {
+          "id": "delete.png",
+          "name": "delete.png",
+          "type": "File",
+          "artifact": {
+            "size": 939,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/delete.png",
+            "MD5": "629d6824db2898ebc16a00ba14487552",
+            "path": "journeymap/icon/theme/vault/_flat/icon/delete.png"
+          }
+        },
+        {
+          "id": "disable.png",
+          "name": "disable.png",
+          "type": "File",
+          "artifact": {
+            "size": 833,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/disable.png",
+            "MD5": "73d4e93e1c708d3f20f3d14e24dfa001",
+            "path": "journeymap/icon/theme/vault/_flat/icon/disable.png"
+          }
+        },
+        {
+          "id": "follow.png",
+          "name": "follow.png",
+          "type": "File",
+          "artifact": {
+            "size": 1139,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/follow.png",
+            "MD5": "638d66388338cb398e3c4b5b7350dd09",
+            "path": "journeymap/icon/theme/vault/_flat/icon/follow.png"
+          }
+        },
+        {
+          "id": "grid.png",
+          "name": "grid.png",
+          "type": "File",
+          "artifact": {
+            "size": 664,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/grid.png",
+            "MD5": "55d3070ee3dcac458c1d1514a90e01a7",
+            "path": "journeymap/icon/theme/vault/_flat/icon/grid.png"
+          }
+        },
+        {
+          "id": "keys.png",
+          "name": "keys.png",
+          "type": "File",
+          "artifact": {
+            "size": 456,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/keys.png",
+            "MD5": "48438ebd8464da96a7d0ed12d041cebe",
+            "path": "journeymap/icon/theme/vault/_flat/icon/keys.png"
+          }
+        },
+        {
+          "id": "layers.png",
+          "name": "layers.png",
+          "type": "File",
+          "artifact": {
+            "size": 1194,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/layers.png",
+            "MD5": "985cd9b7a009fae6d35e8c5fcc07dd9e",
+            "path": "journeymap/icon/theme/vault/_flat/icon/layers.png"
+          }
+        },
+        {
+          "id": "monsters.png",
+          "name": "monsters.png",
+          "type": "File",
+          "artifact": {
+            "size": 1116,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/monsters.png",
+            "MD5": "14e7ce0dd7c3e7cbca7c057f4d97a267",
+            "path": "journeymap/icon/theme/vault/_flat/icon/monsters.png"
+          }
+        },
+        {
+          "id": "night.png",
+          "name": "night.png",
+          "type": "File",
+          "artifact": {
+            "size": 902,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/night.png",
+            "MD5": "e734ca7a960bc49a32fa3e1ef0c075bb",
+            "path": "journeymap/icon/theme/vault/_flat/icon/night.png"
+          }
+        },
+        {
+          "id": "options.png",
+          "name": "options.png",
+          "type": "File",
+          "artifact": {
+            "size": 569,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/options.png",
+            "MD5": "8c101a06c4b6eaa68f2ab7e40a8a73a5",
+            "path": "journeymap/icon/theme/vault/_flat/icon/options.png"
+          }
+        },
+        {
+          "id": "pets.png",
+          "name": "pets.png",
+          "type": "File",
+          "artifact": {
+            "size": 727,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/pets.png",
+            "MD5": "46ee14ca89c0fc121246547a1a87b2f3",
+            "path": "journeymap/icon/theme/vault/_flat/icon/pets.png"
+          }
+        },
+        {
+          "id": "players.png",
+          "name": "players.png",
+          "type": "File",
+          "artifact": {
+            "size": 1369,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/players.png",
+            "MD5": "f0b63f2b603994b6d07a14d5e6d4f6c7",
+            "path": "journeymap/icon/theme/vault/_flat/icon/players.png"
+          }
+        },
+        {
+          "id": "reset.png",
+          "name": "reset.png",
+          "type": "File",
+          "artifact": {
+            "size": 659,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/reset.png",
+            "MD5": "4027ef0ff444cab320978eb0a2974b7e",
+            "path": "journeymap/icon/theme/vault/_flat/icon/reset.png"
+          }
+        },
+        {
+          "id": "savemap.png",
+          "name": "savemap.png",
+          "type": "File",
+          "artifact": {
+            "size": 831,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/savemap.png",
+            "MD5": "0d9582b0c2f410f8a13debc769af4594",
+            "path": "journeymap/icon/theme/vault/_flat/icon/savemap.png"
+          }
+        },
+        {
+          "id": "search.png",
+          "name": "search.png",
+          "type": "File",
+          "artifact": {
+            "size": 1168,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/search.png",
+            "MD5": "b30e5d3527eb483b344d47b11597b7df",
+            "path": "journeymap/icon/theme/vault/_flat/icon/search.png"
+          }
+        },
+        {
+          "id": "server.png",
+          "name": "server.png",
+          "type": "File",
+          "artifact": {
+            "size": 3038,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/server.png",
+            "MD5": "b934f10174be355e0414ccea904b019b",
+            "path": "journeymap/icon/theme/vault/_flat/icon/server.png"
+          }
+        },
+        {
+          "id": "topo.png",
+          "name": "topo.png",
+          "type": "File",
+          "artifact": {
+            "size": 1330,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/topo.png",
+            "MD5": "ed12bd7bd28debaaf75d1af3a910a1c6",
+            "path": "journeymap/icon/theme/vault/_flat/icon/topo.png"
+          }
+        },
+        {
+          "id": "villagers.png",
+          "name": "villagers.png",
+          "type": "File",
+          "artifact": {
+            "size": 1272,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/villagers.png",
+            "MD5": "bd3ef6aa006301204f9f09f3db761cfc",
+            "path": "journeymap/icon/theme/vault/_flat/icon/villagers.png"
+          }
+        },
+        {
+          "id": "waypoints.png",
+          "name": "waypoints.png",
+          "type": "File",
+          "artifact": {
+            "size": 620,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/waypoints.png",
+            "MD5": "5b29da1764cec3a74ee7f0deba89db50",
+            "path": "journeymap/icon/theme/vault/_flat/icon/waypoints.png"
+          }
+        },
+        {
+          "id": "zoomin.png",
+          "name": "zoomin.png",
+          "type": "File",
+          "artifact": {
+            "size": 1155,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/zoomin.png",
+            "MD5": "be2d0cd05adf64b6147d27b1a27f06ae",
+            "path": "journeymap/icon/theme/vault/_flat/icon/zoomin.png"
+          }
+        },
+        {
+          "id": "zoomout.png",
+          "name": "zoomout.png",
+          "type": "File",
+          "artifact": {
+            "size": 1090,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/icon/zoomout.png",
+            "MD5": "dd4e8a25f35d1265543b924d01188e40",
+            "path": "journeymap/icon/theme/vault/_flat/icon/zoomout.png"
+          }
+        },
+        {
+          "id": "flat_bottom.png",
+          "name": "flat_bottom.png",
+          "type": "File",
+          "artifact": {
+            "size": 214,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/minimap/square/flat_bottom.png",
+            "MD5": "e44666a1a7caddce99263b40096aac22",
+            "path": "journeymap/icon/theme/vault/_flat/minimap/square/flat_bottom.png"
+          }
+        },
+        {
+          "id": "flat_bottomleft.png",
+          "name": "flat_bottomleft.png",
+          "type": "File",
+          "artifact": {
+            "size": 18970,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/minimap/square/flat_bottomleft.png",
+            "MD5": "91112dc5925f2697f60156fb6a8187fa",
+            "path": "journeymap/icon/theme/vault/_flat/minimap/square/flat_bottomleft.png"
+          }
+        },
+        {
+          "id": "flat_bottomright.png",
+          "name": "flat_bottomright.png",
+          "type": "File",
+          "artifact": {
+            "size": 10832,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/minimap/square/flat_bottomright.png",
+            "MD5": "2df051aedbbfa8b2098a9e790c4243e1",
+            "path": "journeymap/icon/theme/vault/_flat/minimap/square/flat_bottomright.png"
+          }
+        },
+        {
+          "id": "flat_compass_point.png",
+          "name": "flat_compass_point.png",
+          "type": "File",
+          "artifact": {
+            "size": 289,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/minimap/square/flat_compass_point.png",
+            "MD5": "7a9b67a06745f38b56cc8f25d59542a7",
+            "path": "journeymap/icon/theme/vault/_flat/minimap/square/flat_compass_point.png"
+          }
+        },
+        {
+          "id": "flat_left.png",
+          "name": "flat_left.png",
+          "type": "File",
+          "artifact": {
+            "size": 246,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/minimap/square/flat_left.png",
+            "MD5": "d5f4e77f1d001a4a4a2d373dbaf8e296",
+            "path": "journeymap/icon/theme/vault/_flat/minimap/square/flat_left.png"
+          }
+        },
+        {
+          "id": "flat_right.png",
+          "name": "flat_right.png",
+          "type": "File",
+          "artifact": {
+            "size": 224,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/minimap/square/flat_right.png",
+            "MD5": "7d14e4d66551a78a9d79116bbf6aec93",
+            "path": "journeymap/icon/theme/vault/_flat/minimap/square/flat_right.png"
+          }
+        },
+        {
+          "id": "flat_top.png",
+          "name": "flat_top.png",
+          "type": "File",
+          "artifact": {
+            "size": 228,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/minimap/square/flat_top.png",
+            "MD5": "7bec791f17afff61649d1a33ddc3ab62",
+            "path": "journeymap/icon/theme/vault/_flat/minimap/square/flat_top.png"
+          }
+        },
+        {
+          "id": "flat_topleft.png",
+          "name": "flat_topleft.png",
+          "type": "File",
+          "artifact": {
+            "size": 10437,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/minimap/square/flat_topleft.png",
+            "MD5": "8928cae497b28d525eee74781eb2f6ca",
+            "path": "journeymap/icon/theme/vault/_flat/minimap/square/flat_topleft.png"
+          }
+        },
+        {
+          "id": "flat_topright.png",
+          "name": "flat_topright.png",
+          "type": "File",
+          "artifact": {
+            "size": 10851,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/minimap/square/flat_topright.png",
+            "MD5": "371bfa8ef063f4ec88f3f301214e8d6f",
+            "path": "journeymap/icon/theme/vault/_flat/minimap/square/flat_topright.png"
+          }
+        },
+        {
+          "id": "pur_bottom.png",
+          "name": "pur_bottom.png",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/minimap/square/pur_bottom.png",
+            "MD5": "7ebab006d87fcbc1da28990b3f923989",
+            "path": "journeymap/icon/theme/vault/_flat/minimap/square/pur_bottom.png"
+          }
+        },
+        {
+          "id": "vault.theme2.json",
+          "name": "vault.theme2.json",
+          "type": "File",
+          "artifact": {
+            "size": 6203,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault/_flat/vault.theme2.json",
+            "MD5": "fe629b672f95ecb0146ddff234015f8f",
+            "path": "journeymap/icon/theme/vault/_flat/vault.theme2.json"
+          }
+        },
+        {
+          "id": "htoolbar_begin.png",
+          "name": "htoolbar_begin.png",
+          "type": "File",
+          "artifact": {
+            "size": 1189,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/container/htoolbar_begin.png",
+            "MD5": "249cee57226fe7865363654bb607f596",
+            "path": "journeymap/icon/theme/vault_flat/container/htoolbar_begin.png"
+          }
+        },
+        {
+          "id": "htoolbar_end.png",
+          "name": "htoolbar_end.png",
+          "type": "File",
+          "artifact": {
+            "size": 1189,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/container/htoolbar_end.png",
+            "MD5": "249cee57226fe7865363654bb607f596",
+            "path": "journeymap/icon/theme/vault_flat/container/htoolbar_end.png"
+          }
+        },
+        {
+          "id": "htoolbar_inner.png",
+          "name": "htoolbar_inner.png",
+          "type": "File",
+          "artifact": {
+            "size": 1189,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/container/htoolbar_inner.png",
+            "MD5": "249cee57226fe7865363654bb607f596",
+            "path": "journeymap/icon/theme/vault_flat/container/htoolbar_inner.png"
+          }
+        },
+        {
+          "id": "unkown.png",
+          "name": "unkown.png",
+          "type": "File",
+          "artifact": {
+            "size": 1189,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/container/unkown.png",
+            "MD5": "249cee57226fe7865363654bb607f596",
+            "path": "journeymap/icon/theme/vault_flat/container/unkown.png"
+          }
+        },
+        {
+          "id": "vtoolbar_begin.png",
+          "name": "vtoolbar_begin.png",
+          "type": "File",
+          "artifact": {
+            "size": 1189,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/container/vtoolbar_begin.png",
+            "MD5": "249cee57226fe7865363654bb607f596",
+            "path": "journeymap/icon/theme/vault_flat/container/vtoolbar_begin.png"
+          }
+        },
+        {
+          "id": "vtoolbar_end.png",
+          "name": "vtoolbar_end.png",
+          "type": "File",
+          "artifact": {
+            "size": 1189,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/container/vtoolbar_end.png",
+            "MD5": "249cee57226fe7865363654bb607f596",
+            "path": "journeymap/icon/theme/vault_flat/container/vtoolbar_end.png"
+          }
+        },
+        {
+          "id": "vtoolbar_inner.png",
+          "name": "vtoolbar_inner.png",
+          "type": "File",
+          "artifact": {
+            "size": 1189,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/container/vtoolbar_inner.png",
+            "MD5": "249cee57226fe7865363654bb607f596",
+            "path": "journeymap/icon/theme/vault_flat/container/vtoolbar_inner.png"
+          }
+        },
+        {
+          "id": "flat_button_disabled.png",
+          "name": "flat_button_disabled.png",
+          "type": "File",
+          "artifact": {
+            "size": 246,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/control/flat_button_disabled.png",
+            "MD5": "d0b60e2e7d6355467577b647219a95d3",
+            "path": "journeymap/icon/theme/vault_flat/control/flat_button_disabled.png"
+          }
+        },
+        {
+          "id": "flat_button_hover.png",
+          "name": "flat_button_hover.png",
+          "type": "File",
+          "artifact": {
+            "size": 231,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/control/flat_button_hover.png",
+            "MD5": "5ef7000ecd91e972a4b9cc277244a153",
+            "path": "journeymap/icon/theme/vault_flat/control/flat_button_hover.png"
+          }
+        },
+        {
+          "id": "flat_button_off.png",
+          "name": "flat_button_off.png",
+          "type": "File",
+          "artifact": {
+            "size": 246,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/control/flat_button_off.png",
+            "MD5": "960a18d54909628b6080b8b6ba45c70b",
+            "path": "journeymap/icon/theme/vault_flat/control/flat_button_off.png"
+          }
+        },
+        {
+          "id": "flat_button_on.png",
+          "name": "flat_button_on.png",
+          "type": "File",
+          "artifact": {
+            "size": 221,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/control/flat_button_on.png",
+            "MD5": "ec0c6ffad1db3301546b1ae9bea17969",
+            "path": "journeymap/icon/theme/vault_flat/control/flat_button_on.png"
+          }
+        },
+        {
+          "id": "flat_toggle_disabled.png",
+          "name": "flat_toggle_disabled.png",
+          "type": "File",
+          "artifact": {
+            "size": 246,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/control/flat_toggle_disabled.png",
+            "MD5": "d0b60e2e7d6355467577b647219a95d3",
+            "path": "journeymap/icon/theme/vault_flat/control/flat_toggle_disabled.png"
+          }
+        },
+        {
+          "id": "flat_toggle_hover.png",
+          "name": "flat_toggle_hover.png",
+          "type": "File",
+          "artifact": {
+            "size": 231,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/control/flat_toggle_hover.png",
+            "MD5": "9586613565eef1ca161762f7cc00d2ba",
+            "path": "journeymap/icon/theme/vault_flat/control/flat_toggle_hover.png"
+          }
+        },
+        {
+          "id": "flat_toggle_off.png",
+          "name": "flat_toggle_off.png",
+          "type": "File",
+          "artifact": {
+            "size": 246,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/control/flat_toggle_off.png",
+            "MD5": "960a18d54909628b6080b8b6ba45c70b",
+            "path": "journeymap/icon/theme/vault_flat/control/flat_toggle_off.png"
+          }
+        },
+        {
+          "id": "flat_toggle_on.png",
+          "name": "flat_toggle_on.png",
+          "type": "File",
+          "artifact": {
+            "size": 221,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/control/flat_toggle_on.png",
+            "MD5": "ec0c6ffad1db3301546b1ae9bea17969",
+            "path": "journeymap/icon/theme/vault_flat/control/flat_toggle_on.png"
+          }
+        },
+        {
+          "id": "about.png",
+          "name": "about.png",
+          "type": "File",
+          "artifact": {
+            "size": 651,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/about.png",
+            "MD5": "51dd21a90b121e6ee54629d7aa06bbe0",
+            "path": "journeymap/icon/theme/vault_flat/icon/about.png"
+          }
+        },
+        {
+          "id": "actions.png",
+          "name": "actions.png",
+          "type": "File",
+          "artifact": {
+            "size": 1244,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/actions.png",
+            "MD5": "4b34cadc25f464e0bb26efc78fae7d15",
+            "path": "journeymap/icon/theme/vault_flat/icon/actions.png"
+          }
+        },
+        {
+          "id": "alert.png",
+          "name": "alert.png",
+          "type": "File",
+          "artifact": {
+            "size": 818,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/alert.png",
+            "MD5": "4cef6ccb045d056ba860b1deec88bd0f",
+            "path": "journeymap/icon/theme/vault_flat/icon/alert.png"
+          }
+        },
+        {
+          "id": "animals.png",
+          "name": "animals.png",
+          "type": "File",
+          "artifact": {
+            "size": 978,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/animals.png",
+            "MD5": "cfa7925fd87955daf2b38c11523fafed",
+            "path": "journeymap/icon/theme/vault_flat/icon/animals.png"
+          }
+        },
+        {
+          "id": "automap.png",
+          "name": "automap.png",
+          "type": "File",
+          "artifact": {
+            "size": 1598,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/automap.png",
+            "MD5": "930540047230d5066e1795799b372b89",
+            "path": "journeymap/icon/theme/vault_flat/icon/automap.png"
+          }
+        },
+        {
+          "id": "biome.png",
+          "name": "biome.png",
+          "type": "File",
+          "artifact": {
+            "size": 1029,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/biome.png",
+            "MD5": "c45a1223330ab9056f931ee1df6a5c3c",
+            "path": "journeymap/icon/theme/vault_flat/icon/biome.png"
+          }
+        },
+        {
+          "id": "browser.png",
+          "name": "browser.png",
+          "type": "File",
+          "artifact": {
+            "size": 1694,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/browser.png",
+            "MD5": "55898ae51928c26ba420bd3716c64b72",
+            "path": "journeymap/icon/theme/vault_flat/icon/browser.png"
+          }
+        },
+        {
+          "id": "caves.png",
+          "name": "caves.png",
+          "type": "File",
+          "artifact": {
+            "size": 939,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/caves.png",
+            "MD5": "51de7c137d2f11e2630101e84ea1b322",
+            "path": "journeymap/icon/theme/vault_flat/icon/caves.png"
+          }
+        },
+        {
+          "id": "close.png",
+          "name": "close.png",
+          "type": "File",
+          "artifact": {
+            "size": 1021,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/close.png",
+            "MD5": "b1079574082853abf4f80108a019a5f2",
+            "path": "journeymap/icon/theme/vault_flat/icon/close.png"
+          }
+        },
+        {
+          "id": "colorpalette.png",
+          "name": "colorpalette.png",
+          "type": "File",
+          "artifact": {
+            "size": 1174,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/colorpalette.png",
+            "MD5": "4803d8daf382ae19134355929fff14c0",
+            "path": "journeymap/icon/theme/vault_flat/icon/colorpalette.png"
+          }
+        },
+        {
+          "id": "day.png",
+          "name": "day.png",
+          "type": "File",
+          "artifact": {
+            "size": 1151,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/day.png",
+            "MD5": "6bb079e433e851db3b4da7e506f7152c",
+            "path": "journeymap/icon/theme/vault_flat/icon/day.png"
+          }
+        },
+        {
+          "id": "delete.png",
+          "name": "delete.png",
+          "type": "File",
+          "artifact": {
+            "size": 939,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/delete.png",
+            "MD5": "629d6824db2898ebc16a00ba14487552",
+            "path": "journeymap/icon/theme/vault_flat/icon/delete.png"
+          }
+        },
+        {
+          "id": "disable.png",
+          "name": "disable.png",
+          "type": "File",
+          "artifact": {
+            "size": 833,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/disable.png",
+            "MD5": "73d4e93e1c708d3f20f3d14e24dfa001",
+            "path": "journeymap/icon/theme/vault_flat/icon/disable.png"
+          }
+        },
+        {
+          "id": "follow.png",
+          "name": "follow.png",
+          "type": "File",
+          "artifact": {
+            "size": 1139,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/follow.png",
+            "MD5": "638d66388338cb398e3c4b5b7350dd09",
+            "path": "journeymap/icon/theme/vault_flat/icon/follow.png"
+          }
+        },
+        {
+          "id": "grid.png",
+          "name": "grid.png",
+          "type": "File",
+          "artifact": {
+            "size": 664,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/grid.png",
+            "MD5": "55d3070ee3dcac458c1d1514a90e01a7",
+            "path": "journeymap/icon/theme/vault_flat/icon/grid.png"
+          }
+        },
+        {
+          "id": "keys.png",
+          "name": "keys.png",
+          "type": "File",
+          "artifact": {
+            "size": 456,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/keys.png",
+            "MD5": "48438ebd8464da96a7d0ed12d041cebe",
+            "path": "journeymap/icon/theme/vault_flat/icon/keys.png"
+          }
+        },
+        {
+          "id": "layers.png",
+          "name": "layers.png",
+          "type": "File",
+          "artifact": {
+            "size": 1194,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/layers.png",
+            "MD5": "985cd9b7a009fae6d35e8c5fcc07dd9e",
+            "path": "journeymap/icon/theme/vault_flat/icon/layers.png"
+          }
+        },
+        {
+          "id": "monsters.png",
+          "name": "monsters.png",
+          "type": "File",
+          "artifact": {
+            "size": 1116,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/monsters.png",
+            "MD5": "14e7ce0dd7c3e7cbca7c057f4d97a267",
+            "path": "journeymap/icon/theme/vault_flat/icon/monsters.png"
+          }
+        },
+        {
+          "id": "night.png",
+          "name": "night.png",
+          "type": "File",
+          "artifact": {
+            "size": 902,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/night.png",
+            "MD5": "e734ca7a960bc49a32fa3e1ef0c075bb",
+            "path": "journeymap/icon/theme/vault_flat/icon/night.png"
+          }
+        },
+        {
+          "id": "options.png",
+          "name": "options.png",
+          "type": "File",
+          "artifact": {
+            "size": 569,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/options.png",
+            "MD5": "8c101a06c4b6eaa68f2ab7e40a8a73a5",
+            "path": "journeymap/icon/theme/vault_flat/icon/options.png"
+          }
+        },
+        {
+          "id": "pets.png",
+          "name": "pets.png",
+          "type": "File",
+          "artifact": {
+            "size": 727,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/pets.png",
+            "MD5": "46ee14ca89c0fc121246547a1a87b2f3",
+            "path": "journeymap/icon/theme/vault_flat/icon/pets.png"
+          }
+        },
+        {
+          "id": "players.png",
+          "name": "players.png",
+          "type": "File",
+          "artifact": {
+            "size": 1369,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/players.png",
+            "MD5": "f0b63f2b603994b6d07a14d5e6d4f6c7",
+            "path": "journeymap/icon/theme/vault_flat/icon/players.png"
+          }
+        },
+        {
+          "id": "reset.png",
+          "name": "reset.png",
+          "type": "File",
+          "artifact": {
+            "size": 659,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/reset.png",
+            "MD5": "4027ef0ff444cab320978eb0a2974b7e",
+            "path": "journeymap/icon/theme/vault_flat/icon/reset.png"
+          }
+        },
+        {
+          "id": "savemap.png",
+          "name": "savemap.png",
+          "type": "File",
+          "artifact": {
+            "size": 831,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/savemap.png",
+            "MD5": "0d9582b0c2f410f8a13debc769af4594",
+            "path": "journeymap/icon/theme/vault_flat/icon/savemap.png"
+          }
+        },
+        {
+          "id": "search.png",
+          "name": "search.png",
+          "type": "File",
+          "artifact": {
+            "size": 1168,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/search.png",
+            "MD5": "b30e5d3527eb483b344d47b11597b7df",
+            "path": "journeymap/icon/theme/vault_flat/icon/search.png"
+          }
+        },
+        {
+          "id": "server.png",
+          "name": "server.png",
+          "type": "File",
+          "artifact": {
+            "size": 3038,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/server.png",
+            "MD5": "b934f10174be355e0414ccea904b019b",
+            "path": "journeymap/icon/theme/vault_flat/icon/server.png"
+          }
+        },
+        {
+          "id": "topo.png",
+          "name": "topo.png",
+          "type": "File",
+          "artifact": {
+            "size": 1330,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/topo.png",
+            "MD5": "ed12bd7bd28debaaf75d1af3a910a1c6",
+            "path": "journeymap/icon/theme/vault_flat/icon/topo.png"
+          }
+        },
+        {
+          "id": "villagers.png",
+          "name": "villagers.png",
+          "type": "File",
+          "artifact": {
+            "size": 1272,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/villagers.png",
+            "MD5": "bd3ef6aa006301204f9f09f3db761cfc",
+            "path": "journeymap/icon/theme/vault_flat/icon/villagers.png"
+          }
+        },
+        {
+          "id": "waypoints.png",
+          "name": "waypoints.png",
+          "type": "File",
+          "artifact": {
+            "size": 620,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/waypoints.png",
+            "MD5": "5b29da1764cec3a74ee7f0deba89db50",
+            "path": "journeymap/icon/theme/vault_flat/icon/waypoints.png"
+          }
+        },
+        {
+          "id": "zoomin.png",
+          "name": "zoomin.png",
+          "type": "File",
+          "artifact": {
+            "size": 1155,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/zoomin.png",
+            "MD5": "be2d0cd05adf64b6147d27b1a27f06ae",
+            "path": "journeymap/icon/theme/vault_flat/icon/zoomin.png"
+          }
+        },
+        {
+          "id": "zoomout.png",
+          "name": "zoomout.png",
+          "type": "File",
+          "artifact": {
+            "size": 1090,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/icon/zoomout.png",
+            "MD5": "dd4e8a25f35d1265543b924d01188e40",
+            "path": "journeymap/icon/theme/vault_flat/icon/zoomout.png"
+          }
+        },
+        {
+          "id": "flat_bottom.png",
+          "name": "flat_bottom.png",
+          "type": "File",
+          "artifact": {
+            "size": 214,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/minimap/square/flat_bottom.png",
+            "MD5": "e44666a1a7caddce99263b40096aac22",
+            "path": "journeymap/icon/theme/vault_flat/minimap/square/flat_bottom.png"
+          }
+        },
+        {
+          "id": "flat_bottomleft.png",
+          "name": "flat_bottomleft.png",
+          "type": "File",
+          "artifact": {
+            "size": 18970,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/minimap/square/flat_bottomleft.png",
+            "MD5": "91112dc5925f2697f60156fb6a8187fa",
+            "path": "journeymap/icon/theme/vault_flat/minimap/square/flat_bottomleft.png"
+          }
+        },
+        {
+          "id": "flat_bottomright.png",
+          "name": "flat_bottomright.png",
+          "type": "File",
+          "artifact": {
+            "size": 10832,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/minimap/square/flat_bottomright.png",
+            "MD5": "2df051aedbbfa8b2098a9e790c4243e1",
+            "path": "journeymap/icon/theme/vault_flat/minimap/square/flat_bottomright.png"
+          }
+        },
+        {
+          "id": "flat_compass_point.png",
+          "name": "flat_compass_point.png",
+          "type": "File",
+          "artifact": {
+            "size": 289,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/minimap/square/flat_compass_point.png",
+            "MD5": "7a9b67a06745f38b56cc8f25d59542a7",
+            "path": "journeymap/icon/theme/vault_flat/minimap/square/flat_compass_point.png"
+          }
+        },
+        {
+          "id": "flat_left.png",
+          "name": "flat_left.png",
+          "type": "File",
+          "artifact": {
+            "size": 246,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/minimap/square/flat_left.png",
+            "MD5": "d5f4e77f1d001a4a4a2d373dbaf8e296",
+            "path": "journeymap/icon/theme/vault_flat/minimap/square/flat_left.png"
+          }
+        },
+        {
+          "id": "flat_right.png",
+          "name": "flat_right.png",
+          "type": "File",
+          "artifact": {
+            "size": 224,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/minimap/square/flat_right.png",
+            "MD5": "7d14e4d66551a78a9d79116bbf6aec93",
+            "path": "journeymap/icon/theme/vault_flat/minimap/square/flat_right.png"
+          }
+        },
+        {
+          "id": "flat_top.png",
+          "name": "flat_top.png",
+          "type": "File",
+          "artifact": {
+            "size": 228,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/minimap/square/flat_top.png",
+            "MD5": "7bec791f17afff61649d1a33ddc3ab62",
+            "path": "journeymap/icon/theme/vault_flat/minimap/square/flat_top.png"
+          }
+        },
+        {
+          "id": "flat_topleft.png",
+          "name": "flat_topleft.png",
+          "type": "File",
+          "artifact": {
+            "size": 10437,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/minimap/square/flat_topleft.png",
+            "MD5": "8928cae497b28d525eee74781eb2f6ca",
+            "path": "journeymap/icon/theme/vault_flat/minimap/square/flat_topleft.png"
+          }
+        },
+        {
+          "id": "flat_topright.png",
+          "name": "flat_topright.png",
+          "type": "File",
+          "artifact": {
+            "size": 10851,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/minimap/square/flat_topright.png",
+            "MD5": "371bfa8ef063f4ec88f3f301214e8d6f",
+            "path": "journeymap/icon/theme/vault_flat/minimap/square/flat_topright.png"
+          }
+        },
+        {
+          "id": "pur_bottom.png",
+          "name": "pur_bottom.png",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/minimap/square/pur_bottom.png",
+            "MD5": "7ebab006d87fcbc1da28990b3f923989",
+            "path": "journeymap/icon/theme/vault_flat/minimap/square/pur_bottom.png"
+          }
+        },
+        {
+          "id": "vault.theme2.json",
+          "name": "vault.theme2.json",
+          "type": "File",
+          "artifact": {
+            "size": 6203,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/vault_flat/vault.theme2.json",
+            "MD5": "fe629b672f95ecb0146ddff234015f8f",
+            "path": "journeymap/icon/theme/vault_flat/vault.theme2.json"
+          }
+        },
+        {
+          "id": "htoolbar_begin.png",
+          "name": "htoolbar_begin.png",
+          "type": "File",
+          "artifact": {
+            "size": 793,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/container/htoolbar_begin.png",
+            "MD5": "d7c050e6c6a2ec523fc03625b47f49c6",
+            "path": "journeymap/icon/theme/victorian_/container/htoolbar_begin.png"
+          }
+        },
+        {
+          "id": "htoolbar_end.png",
+          "name": "htoolbar_end.png",
+          "type": "File",
+          "artifact": {
+            "size": 814,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/container/htoolbar_end.png",
+            "MD5": "daab8c1c1282dd6b709483b7fe5402fb",
+            "path": "journeymap/icon/theme/victorian_/container/htoolbar_end.png"
+          }
+        },
+        {
+          "id": "htoolbar_inner.png",
+          "name": "htoolbar_inner.png",
+          "type": "File",
+          "artifact": {
+            "size": 275,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/container/htoolbar_inner.png",
+            "MD5": "9344a40b98287269059cb9d898f9e5a7",
+            "path": "journeymap/icon/theme/victorian_/container/htoolbar_inner.png"
+          }
+        },
+        {
+          "id": "vtoolbar_begin.png",
+          "name": "vtoolbar_begin.png",
+          "type": "File",
+          "artifact": {
+            "size": 806,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/container/vtoolbar_begin.png",
+            "MD5": "a01803a7be6606c9b87166e379939480",
+            "path": "journeymap/icon/theme/victorian_/container/vtoolbar_begin.png"
+          }
+        },
+        {
+          "id": "vtoolbar_end.png",
+          "name": "vtoolbar_end.png",
+          "type": "File",
+          "artifact": {
+            "size": 802,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/container/vtoolbar_end.png",
+            "MD5": "924e6375df0aa9ee9b4ce44ab84b9a4a",
+            "path": "journeymap/icon/theme/victorian_/container/vtoolbar_end.png"
+          }
+        },
+        {
+          "id": "vtoolbar_inner.png",
+          "name": "vtoolbar_inner.png",
+          "type": "File",
+          "artifact": {
+            "size": 259,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/container/vtoolbar_inner.png",
+            "MD5": "46b4cf399ea8a1b41a7906608d91a8e5",
+            "path": "journeymap/icon/theme/victorian_/container/vtoolbar_inner.png"
+          }
+        },
+        {
+          "id": "button_disabled.png",
+          "name": "button_disabled.png",
+          "type": "File",
+          "artifact": {
+            "size": 2642,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/control/button_disabled.png",
+            "MD5": "2bc668ac8cec2300054a8e8cb0f1443d",
+            "path": "journeymap/icon/theme/victorian_/control/button_disabled.png"
+          }
+        },
+        {
+          "id": "button_hover.png",
+          "name": "button_hover.png",
+          "type": "File",
+          "artifact": {
+            "size": 3912,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/control/button_hover.png",
+            "MD5": "22468dc2d3377d9629ff84ae4de460af",
+            "path": "journeymap/icon/theme/victorian_/control/button_hover.png"
+          }
+        },
+        {
+          "id": "button_off.png",
+          "name": "button_off.png",
+          "type": "File",
+          "artifact": {
+            "size": 3178,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/control/button_off.png",
+            "MD5": "52be8f9d6d24371bdad43edbccad3eb4",
+            "path": "journeymap/icon/theme/victorian_/control/button_off.png"
+          }
+        },
+        {
+          "id": "button_on.png",
+          "name": "button_on.png",
+          "type": "File",
+          "artifact": {
+            "size": 3912,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/control/button_on.png",
+            "MD5": "22468dc2d3377d9629ff84ae4de460af",
+            "path": "journeymap/icon/theme/victorian_/control/button_on.png"
+          }
+        },
+        {
+          "id": "toggle_disabled.png",
+          "name": "toggle_disabled.png",
+          "type": "File",
+          "artifact": {
+            "size": 3527,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/control/toggle_disabled.png",
+            "MD5": "ee425f75bdfd1857b6ef1cbce6817e67",
+            "path": "journeymap/icon/theme/victorian_/control/toggle_disabled.png"
+          }
+        },
+        {
+          "id": "toggle_hover.png",
+          "name": "toggle_hover.png",
+          "type": "File",
+          "artifact": {
+            "size": 5290,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/control/toggle_hover.png",
+            "MD5": "422d8e943cd2adf325132e50de873381",
+            "path": "journeymap/icon/theme/victorian_/control/toggle_hover.png"
+          }
+        },
+        {
+          "id": "toggle_off.png",
+          "name": "toggle_off.png",
+          "type": "File",
+          "artifact": {
+            "size": 5290,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/control/toggle_off.png",
+            "MD5": "422d8e943cd2adf325132e50de873381",
+            "path": "journeymap/icon/theme/victorian_/control/toggle_off.png"
+          }
+        },
+        {
+          "id": "toggle_on.png",
+          "name": "toggle_on.png",
+          "type": "File",
+          "artifact": {
+            "size": 5959,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/control/toggle_on.png",
+            "MD5": "eace1beb2e557ea25de54372f8b2abe1",
+            "path": "journeymap/icon/theme/victorian_/control/toggle_on.png"
+          }
+        },
+        {
+          "id": "about.png",
+          "name": "about.png",
+          "type": "File",
+          "artifact": {
+            "size": 651,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/about.png",
+            "MD5": "51dd21a90b121e6ee54629d7aa06bbe0",
+            "path": "journeymap/icon/theme/victorian_/icon/about.png"
+          }
+        },
+        {
+          "id": "actions.png",
+          "name": "actions.png",
+          "type": "File",
+          "artifact": {
+            "size": 1244,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/actions.png",
+            "MD5": "4b34cadc25f464e0bb26efc78fae7d15",
+            "path": "journeymap/icon/theme/victorian_/icon/actions.png"
+          }
+        },
+        {
+          "id": "alert.png",
+          "name": "alert.png",
+          "type": "File",
+          "artifact": {
+            "size": 818,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/alert.png",
+            "MD5": "4cef6ccb045d056ba860b1deec88bd0f",
+            "path": "journeymap/icon/theme/victorian_/icon/alert.png"
+          }
+        },
+        {
+          "id": "animals.png",
+          "name": "animals.png",
+          "type": "File",
+          "artifact": {
+            "size": 978,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/animals.png",
+            "MD5": "cfa7925fd87955daf2b38c11523fafed",
+            "path": "journeymap/icon/theme/victorian_/icon/animals.png"
+          }
+        },
+        {
+          "id": "automap.png",
+          "name": "automap.png",
+          "type": "File",
+          "artifact": {
+            "size": 1598,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/automap.png",
+            "MD5": "930540047230d5066e1795799b372b89",
+            "path": "journeymap/icon/theme/victorian_/icon/automap.png"
+          }
+        },
+        {
+          "id": "biome.png",
+          "name": "biome.png",
+          "type": "File",
+          "artifact": {
+            "size": 1029,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/biome.png",
+            "MD5": "c45a1223330ab9056f931ee1df6a5c3c",
+            "path": "journeymap/icon/theme/victorian_/icon/biome.png"
+          }
+        },
+        {
+          "id": "browser.png",
+          "name": "browser.png",
+          "type": "File",
+          "artifact": {
+            "size": 1694,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/browser.png",
+            "MD5": "55898ae51928c26ba420bd3716c64b72",
+            "path": "journeymap/icon/theme/victorian_/icon/browser.png"
+          }
+        },
+        {
+          "id": "caves.png",
+          "name": "caves.png",
+          "type": "File",
+          "artifact": {
+            "size": 939,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/caves.png",
+            "MD5": "51de7c137d2f11e2630101e84ea1b322",
+            "path": "journeymap/icon/theme/victorian_/icon/caves.png"
+          }
+        },
+        {
+          "id": "close.png",
+          "name": "close.png",
+          "type": "File",
+          "artifact": {
+            "size": 1021,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/close.png",
+            "MD5": "b1079574082853abf4f80108a019a5f2",
+            "path": "journeymap/icon/theme/victorian_/icon/close.png"
+          }
+        },
+        {
+          "id": "colorpalette.png",
+          "name": "colorpalette.png",
+          "type": "File",
+          "artifact": {
+            "size": 1174,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/colorpalette.png",
+            "MD5": "4803d8daf382ae19134355929fff14c0",
+            "path": "journeymap/icon/theme/victorian_/icon/colorpalette.png"
+          }
+        },
+        {
+          "id": "day.png",
+          "name": "day.png",
+          "type": "File",
+          "artifact": {
+            "size": 1151,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/day.png",
+            "MD5": "6bb079e433e851db3b4da7e506f7152c",
+            "path": "journeymap/icon/theme/victorian_/icon/day.png"
+          }
+        },
+        {
+          "id": "delete.png",
+          "name": "delete.png",
+          "type": "File",
+          "artifact": {
+            "size": 939,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/delete.png",
+            "MD5": "629d6824db2898ebc16a00ba14487552",
+            "path": "journeymap/icon/theme/victorian_/icon/delete.png"
+          }
+        },
+        {
+          "id": "disable.png",
+          "name": "disable.png",
+          "type": "File",
+          "artifact": {
+            "size": 833,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/disable.png",
+            "MD5": "73d4e93e1c708d3f20f3d14e24dfa001",
+            "path": "journeymap/icon/theme/victorian_/icon/disable.png"
+          }
+        },
+        {
+          "id": "follow.png",
+          "name": "follow.png",
+          "type": "File",
+          "artifact": {
+            "size": 1139,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/follow.png",
+            "MD5": "638d66388338cb398e3c4b5b7350dd09",
+            "path": "journeymap/icon/theme/victorian_/icon/follow.png"
+          }
+        },
+        {
+          "id": "grid.png",
+          "name": "grid.png",
+          "type": "File",
+          "artifact": {
+            "size": 664,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/grid.png",
+            "MD5": "55d3070ee3dcac458c1d1514a90e01a7",
+            "path": "journeymap/icon/theme/victorian_/icon/grid.png"
+          }
+        },
+        {
+          "id": "keys.png",
+          "name": "keys.png",
+          "type": "File",
+          "artifact": {
+            "size": 444,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/keys.png",
+            "MD5": "6b899d0a6c323e6fe6508169a3bbf120",
+            "path": "journeymap/icon/theme/victorian_/icon/keys.png"
+          }
+        },
+        {
+          "id": "layers.png",
+          "name": "layers.png",
+          "type": "File",
+          "artifact": {
+            "size": 1194,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/layers.png",
+            "MD5": "985cd9b7a009fae6d35e8c5fcc07dd9e",
+            "path": "journeymap/icon/theme/victorian_/icon/layers.png"
+          }
+        },
+        {
+          "id": "monsters.png",
+          "name": "monsters.png",
+          "type": "File",
+          "artifact": {
+            "size": 1116,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/monsters.png",
+            "MD5": "14e7ce0dd7c3e7cbca7c057f4d97a267",
+            "path": "journeymap/icon/theme/victorian_/icon/monsters.png"
+          }
+        },
+        {
+          "id": "night.png",
+          "name": "night.png",
+          "type": "File",
+          "artifact": {
+            "size": 902,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/night.png",
+            "MD5": "e734ca7a960bc49a32fa3e1ef0c075bb",
+            "path": "journeymap/icon/theme/victorian_/icon/night.png"
+          }
+        },
+        {
+          "id": "options.png",
+          "name": "options.png",
+          "type": "File",
+          "artifact": {
+            "size": 569,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/options.png",
+            "MD5": "8c101a06c4b6eaa68f2ab7e40a8a73a5",
+            "path": "journeymap/icon/theme/victorian_/icon/options.png"
+          }
+        },
+        {
+          "id": "pets.png",
+          "name": "pets.png",
+          "type": "File",
+          "artifact": {
+            "size": 727,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/pets.png",
+            "MD5": "46ee14ca89c0fc121246547a1a87b2f3",
+            "path": "journeymap/icon/theme/victorian_/icon/pets.png"
+          }
+        },
+        {
+          "id": "players.png",
+          "name": "players.png",
+          "type": "File",
+          "artifact": {
+            "size": 1369,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/players.png",
+            "MD5": "f0b63f2b603994b6d07a14d5e6d4f6c7",
+            "path": "journeymap/icon/theme/victorian_/icon/players.png"
+          }
+        },
+        {
+          "id": "reset.png",
+          "name": "reset.png",
+          "type": "File",
+          "artifact": {
+            "size": 659,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/reset.png",
+            "MD5": "4027ef0ff444cab320978eb0a2974b7e",
+            "path": "journeymap/icon/theme/victorian_/icon/reset.png"
+          }
+        },
+        {
+          "id": "savemap.png",
+          "name": "savemap.png",
+          "type": "File",
+          "artifact": {
+            "size": 831,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/savemap.png",
+            "MD5": "0d9582b0c2f410f8a13debc769af4594",
+            "path": "journeymap/icon/theme/victorian_/icon/savemap.png"
+          }
+        },
+        {
+          "id": "search.png",
+          "name": "search.png",
+          "type": "File",
+          "artifact": {
+            "size": 1168,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/search.png",
+            "MD5": "b30e5d3527eb483b344d47b11597b7df",
+            "path": "journeymap/icon/theme/victorian_/icon/search.png"
+          }
+        },
+        {
+          "id": "topo.png",
+          "name": "topo.png",
+          "type": "File",
+          "artifact": {
+            "size": 1316,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/topo.png",
+            "MD5": "e817811bd53560c8c29a816970bde9a4",
+            "path": "journeymap/icon/theme/victorian_/icon/topo.png"
+          }
+        },
+        {
+          "id": "villagers.png",
+          "name": "villagers.png",
+          "type": "File",
+          "artifact": {
+            "size": 1272,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/villagers.png",
+            "MD5": "bd3ef6aa006301204f9f09f3db761cfc",
+            "path": "journeymap/icon/theme/victorian_/icon/villagers.png"
+          }
+        },
+        {
+          "id": "waypoints.png",
+          "name": "waypoints.png",
+          "type": "File",
+          "artifact": {
+            "size": 620,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/waypoints.png",
+            "MD5": "5b29da1764cec3a74ee7f0deba89db50",
+            "path": "journeymap/icon/theme/victorian_/icon/waypoints.png"
+          }
+        },
+        {
+          "id": "zoomin.png",
+          "name": "zoomin.png",
+          "type": "File",
+          "artifact": {
+            "size": 1155,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/zoomin.png",
+            "MD5": "be2d0cd05adf64b6147d27b1a27f06ae",
+            "path": "journeymap/icon/theme/victorian_/icon/zoomin.png"
+          }
+        },
+        {
+          "id": "zoomout.png",
+          "name": "zoomout.png",
+          "type": "File",
+          "artifact": {
+            "size": 1090,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/icon/zoomout.png",
+            "MD5": "dd4e8a25f35d1265543b924d01188e40",
+            "path": "journeymap/icon/theme/victorian_/icon/zoomout.png"
+          }
+        },
+        {
+          "id": "compass_point.png",
+          "name": "compass_point.png",
+          "type": "File",
+          "artifact": {
+            "size": 1382,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/circle/compass_point.png",
+            "MD5": "4bf01fcceda67986e3cbce29cb378015",
+            "path": "journeymap/icon/theme/victorian_/minimap/circle/compass_point.png"
+          }
+        },
+        {
+          "id": "mask_256.png",
+          "name": "mask_256.png",
+          "type": "File",
+          "artifact": {
+            "size": 2067,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/circle/mask_256.png",
+            "MD5": "9e3dd563a09eca2e7ce680aa0218d0e3",
+            "path": "journeymap/icon/theme/victorian_/minimap/circle/mask_256.png"
+          }
+        },
+        {
+          "id": "mask_512.png",
+          "name": "mask_512.png",
+          "type": "File",
+          "artifact": {
+            "size": 10622,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/circle/mask_512.png",
+            "MD5": "2135a5f65419ee3fcd0d63a722ec0cfd",
+            "path": "journeymap/icon/theme/victorian_/minimap/circle/mask_512.png"
+          }
+        },
+        {
+          "id": "rim_256.png",
+          "name": "rim_256.png",
+          "type": "File",
+          "artifact": {
+            "size": 16722,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/circle/rim_256.png",
+            "MD5": "5ea264b3f475a090409585339412bc3e",
+            "path": "journeymap/icon/theme/victorian_/minimap/circle/rim_256.png"
+          }
+        },
+        {
+          "id": "rim_512.png",
+          "name": "rim_512.png",
+          "type": "File",
+          "artifact": {
+            "size": 39120,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/circle/rim_512.png",
+            "MD5": "1fa2e53202c933330469c274befccada",
+            "path": "journeymap/icon/theme/victorian_/minimap/circle/rim_512.png"
+          }
+        },
+        {
+          "id": "pur_bottom.png",
+          "name": "pur_bottom.png",
+          "type": "File",
+          "artifact": {
+            "size": 176,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/square/pur_bottom.png",
+            "MD5": "d6ae39dea02ec964b647367be9296bc5",
+            "path": "journeymap/icon/theme/victorian_/minimap/square/pur_bottom.png"
+          }
+        },
+        {
+          "id": "pur_bottomleft.png",
+          "name": "pur_bottomleft.png",
+          "type": "File",
+          "artifact": {
+            "size": 227,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/square/pur_bottomleft.png",
+            "MD5": "8ffb3752fb3f757cf1002246adc608e4",
+            "path": "journeymap/icon/theme/victorian_/minimap/square/pur_bottomleft.png"
+          }
+        },
+        {
+          "id": "pur_bottomright.png",
+          "name": "pur_bottomright.png",
+          "type": "File",
+          "artifact": {
+            "size": 235,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/square/pur_bottomright.png",
+            "MD5": "b5047e7dde137856675dc291d506beaa",
+            "path": "journeymap/icon/theme/victorian_/minimap/square/pur_bottomright.png"
+          }
+        },
+        {
+          "id": "pur_left.png",
+          "name": "pur_left.png",
+          "type": "File",
+          "artifact": {
+            "size": 172,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/square/pur_left.png",
+            "MD5": "4a5c96621fb95208a603a613546592a2",
+            "path": "journeymap/icon/theme/victorian_/minimap/square/pur_left.png"
+          }
+        },
+        {
+          "id": "pur_right.png",
+          "name": "pur_right.png",
+          "type": "File",
+          "artifact": {
+            "size": 175,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/square/pur_right.png",
+            "MD5": "38420feabc8bf5cc02be45c17045edf7",
+            "path": "journeymap/icon/theme/victorian_/minimap/square/pur_right.png"
+          }
+        },
+        {
+          "id": "pur_top.png",
+          "name": "pur_top.png",
+          "type": "File",
+          "artifact": {
+            "size": 171,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/square/pur_top.png",
+            "MD5": "64c568ebb91e62e8726f9ab062fc554d",
+            "path": "journeymap/icon/theme/victorian_/minimap/square/pur_top.png"
+          }
+        },
+        {
+          "id": "pur_topleft.png",
+          "name": "pur_topleft.png",
+          "type": "File",
+          "artifact": {
+            "size": 225,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/square/pur_topleft.png",
+            "MD5": "bc710b3a399e0a9a3af799fac6977e6f",
+            "path": "journeymap/icon/theme/victorian_/minimap/square/pur_topleft.png"
+          }
+        },
+        {
+          "id": "pur_topright.png",
+          "name": "pur_topright.png",
+          "type": "File",
+          "artifact": {
+            "size": 241,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/square/pur_topright.png",
+            "MD5": "9b2596a1d1793e3dd7f88a8791a4af9f",
+            "path": "journeymap/icon/theme/victorian_/minimap/square/pur_topright.png"
+          }
+        },
+        {
+          "id": "vic_bottom.png",
+          "name": "vic_bottom.png",
+          "type": "File",
+          "artifact": {
+            "size": 168,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/square/vic_bottom.png",
+            "MD5": "9f4b09f3e162ae58764375f0285b0184",
+            "path": "journeymap/icon/theme/victorian_/minimap/square/vic_bottom.png"
+          }
+        },
+        {
+          "id": "vic_bottomleft.png",
+          "name": "vic_bottomleft.png",
+          "type": "File",
+          "artifact": {
+            "size": 547,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/square/vic_bottomleft.png",
+            "MD5": "650f669dc551cf7e7ecb191dff1c824e",
+            "path": "journeymap/icon/theme/victorian_/minimap/square/vic_bottomleft.png"
+          }
+        },
+        {
+          "id": "vic_bottomright.png",
+          "name": "vic_bottomright.png",
+          "type": "File",
+          "artifact": {
+            "size": 526,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/square/vic_bottomright.png",
+            "MD5": "88a9c872466e346b9db1dc4af78d17d9",
+            "path": "journeymap/icon/theme/victorian_/minimap/square/vic_bottomright.png"
+          }
+        },
+        {
+          "id": "vic_compass_point.png",
+          "name": "vic_compass_point.png",
+          "type": "File",
+          "artifact": {
+            "size": 1029,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/square/vic_compass_point.png",
+            "MD5": "78273edbdd8bc91fc9a1d1dbbc1af5da",
+            "path": "journeymap/icon/theme/victorian_/minimap/square/vic_compass_point.png"
+          }
+        },
+        {
+          "id": "vic_left.png",
+          "name": "vic_left.png",
+          "type": "File",
+          "artifact": {
+            "size": 170,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/square/vic_left.png",
+            "MD5": "9ed307f981659595041382911822a5fa",
+            "path": "journeymap/icon/theme/victorian_/minimap/square/vic_left.png"
+          }
+        },
+        {
+          "id": "vic_right.png",
+          "name": "vic_right.png",
+          "type": "File",
+          "artifact": {
+            "size": 168,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/square/vic_right.png",
+            "MD5": "011c83c3bd4c842f95161b2f0433f068",
+            "path": "journeymap/icon/theme/victorian_/minimap/square/vic_right.png"
+          }
+        },
+        {
+          "id": "vic_top.png",
+          "name": "vic_top.png",
+          "type": "File",
+          "artifact": {
+            "size": 175,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/square/vic_top.png",
+            "MD5": "8c05bd58efd956a24365e80821ebc42b",
+            "path": "journeymap/icon/theme/victorian_/minimap/square/vic_top.png"
+          }
+        },
+        {
+          "id": "vic_topleft.png",
+          "name": "vic_topleft.png",
+          "type": "File",
+          "artifact": {
+            "size": 554,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/square/vic_topleft.png",
+            "MD5": "039fd357f914a124662d26bf0d89f5c9",
+            "path": "journeymap/icon/theme/victorian_/minimap/square/vic_topleft.png"
+          }
+        },
+        {
+          "id": "vic_topright.png",
+          "name": "vic_topright.png",
+          "type": "File",
+          "artifact": {
+            "size": 518,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/minimap/square/vic_topright.png",
+            "MD5": "58e88d8ce2c0f1d13938b2925811c284",
+            "path": "journeymap/icon/theme/victorian_/minimap/square/vic_topright.png"
+          }
+        },
+        {
+          "id": "victorian_.theme2.json",
+          "name": "victorian_.theme2.json",
+          "type": "File",
+          "artifact": {
+            "size": 8728,
+            "url": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/servers/YoonSaeng-1.21.1/files/journeymap/icon/theme/victorian_/victorian_.theme2.json",
+            "MD5": "e36e96b9e816065f9463ad3fd2aca052",
+            "path": "journeymap/icon/theme/victorian_/victorian_.theme2.json"
           }
         },
         {
