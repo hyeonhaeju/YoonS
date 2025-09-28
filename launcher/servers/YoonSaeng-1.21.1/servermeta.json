@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/RG-setup/Nebula-master/workspace/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "윤생서버 (Minecraft 1.21.1)",
+    "description": "윤생서버 1.21.1 (Fabric v0.17.2)",
+    "icon": "https://raw.githubusercontent.com/hyeonhaeju/YoonS/main/launcher/Ys_icon.png",
+    "address": "118.41.13.87:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.17.2"
+  },
+  "untrackedFiles": []
+}
